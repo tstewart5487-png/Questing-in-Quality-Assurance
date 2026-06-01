@@ -1,7 +1,7 @@
 # STLC and QA Learning Checklist
 
 ## STLC Overview
-- [ ] Explore the stages of the STLC
+- [x] Explore the stages of the STLC
 - [ ] Learn what happens at each stage
 - [ ] Understand the role of a QA engineer at each stage
 
