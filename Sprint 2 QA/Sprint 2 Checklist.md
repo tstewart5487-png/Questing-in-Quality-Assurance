@@ -8,7 +8,7 @@
 ## Stage 1: Analyze Requirements
 - [x] Break requirements into small testable components
 - [x] Use a mind map to visualize components
-- [ ] Use a flow chart to visualize the user's journey
+- [x] Use a flow chart to visualize the user's journey
 - [ ] Identify missing or unclear requirements
 - [ ] Identify potential gray areas
 
