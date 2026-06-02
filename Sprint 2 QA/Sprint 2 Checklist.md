@@ -21,7 +21,7 @@
 - [x] Get familiar with the principles of test design
 - [x] Get familiar with relevant software tools
 - [x] Explore positive and negative testing types
-- [ ] Learn how positive and negative testing are used
+- [x] Learn how positive and negative testing are used
 - [ ] Dive into black-box testing techniques
 - [ ] Practice equivalence partitioning
 - [ ] Practice boundary values analysis
