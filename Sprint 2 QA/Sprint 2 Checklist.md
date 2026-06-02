@@ -13,9 +13,9 @@
 - [x] Identify potential gray areas
 
 ## Stage 2: Participate in Test Planning
-- [ ] Learn how a test plan is used
-- [ ] Learn how to find relevant information in a test plan
-- [ ] Understand the difference between a test plan and test strategy
+- [x] Learn how a test plan is used
+- [x] Learn how to find relevant information in a test plan
+- [x] Understand the difference between a test plan and test strategy
 
 ## Stage 3: Design Test Cases
 - [ ] Get familiar with the principles of test design
