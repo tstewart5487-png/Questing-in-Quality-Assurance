@@ -26,7 +26,7 @@
 - [x] Practice equivalence partitioning
 - [X] Practice boundary values analysis
 - [X] Practice pairwise testing
-- [ ] Practice decision tables
+- [x] Practice decision tables
 
 ## Stage 4: Set up the Test Environment
 - [ ] Understand why environments are set up for testing
