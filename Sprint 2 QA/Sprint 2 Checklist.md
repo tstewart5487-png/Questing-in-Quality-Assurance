@@ -10,7 +10,7 @@
 - [x] Use a mind map to visualize components
 - [x] Use a flow chart to visualize the user's journey
 - [x] Identify missing or unclear requirements
-- [ ] Identify potential gray areas
+- [x] Identify potential gray areas
 
 ## Stage 2: Participate in Test Planning
 - [ ] Learn how a test plan is used
