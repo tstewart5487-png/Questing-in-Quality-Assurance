@@ -23,7 +23,7 @@
 - [x] Explore positive and negative testing types
 - [x] Learn how positive and negative testing are used
 - [x] Dive into black-box testing techniques
-- [ ] Practice equivalence partitioning
+- [x] Practice equivalence partitioning
 - [ ] Practice boundary values analysis
 - [ ] Practice pairwise testing
 - [ ] Practice decision tables
