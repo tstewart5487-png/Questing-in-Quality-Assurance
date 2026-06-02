@@ -24,7 +24,7 @@
 - [x] Learn how positive and negative testing are used
 - [x] Dive into black-box testing techniques
 - [x] Practice equivalence partitioning
-- [ ] Practice boundary values analysis
+- [X] Practice boundary values analysis
 - [ ] Practice pairwise testing
 - [ ] Practice decision tables
 
