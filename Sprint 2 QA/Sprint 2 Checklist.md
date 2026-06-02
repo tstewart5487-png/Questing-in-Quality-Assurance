@@ -9,7 +9,7 @@
 - [x] Break requirements into small testable components
 - [x] Use a mind map to visualize components
 - [x] Use a flow chart to visualize the user's journey
-- [ ] Identify missing or unclear requirements
+- [x] Identify missing or unclear requirements
 - [ ] Identify potential gray areas
 
 ## Stage 2: Participate in Test Planning
