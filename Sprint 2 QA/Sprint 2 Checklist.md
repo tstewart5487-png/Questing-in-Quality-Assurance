@@ -13,7 +13,7 @@
 - [x] Identify potential gray areas
 
 ## Stage 2: Participate in Test Planning
-- [ ] Learn how a test plan is used
+- [x] Learn how a test plan is used
 - [ ] Learn how to find relevant information in a test plan
 - [ ] Understand the difference between a test plan and test strategy
 
