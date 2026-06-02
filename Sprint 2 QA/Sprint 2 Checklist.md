@@ -19,7 +19,7 @@
 
 ## Stage 3: Design Test Cases
 - [x] Get familiar with the principles of test design
-- [ ] Get familiar with relevant software tools
+- [x] Get familiar with relevant software tools
 - [ ] Explore positive and negative testing types
 - [ ] Learn how positive and negative testing are used
 - [ ] Dive into black-box testing techniques
