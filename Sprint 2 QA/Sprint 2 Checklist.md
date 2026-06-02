@@ -25,7 +25,7 @@
 - [x] Dive into black-box testing techniques
 - [x] Practice equivalence partitioning
 - [X] Practice boundary values analysis
-- [ ] Practice pairwise testing
+- [X] Practice pairwise testing
 - [ ] Practice decision tables
 
 ## Stage 4: Set up the Test Environment
