@@ -2,15 +2,15 @@
 
 ## STLC Overview
 - [x] Explore the stages of the STLC
-- [ ] Learn what happens at each stage
-- [ ] Understand the role of a QA engineer at each stage
+- [x] Learn what happens at each stage
+- [x] Understand the role of a QA engineer at each stage
 
 ## Stage 1: Analyze Requirements
-- [ ] Break requirements into small testable components
-- [ ] Use a mind map to visualize components
-- [ ] Use a flow chart to visualize the user's journey
-- [ ] Identify missing or unclear requirements
-- [ ] Identify potential gray areas
+- [x] Break requirements into small testable components
+- [x] Use a mind map to visualize components
+- [x] Use a flow chart to visualize the user's journey
+- [x] Identify missing or unclear requirements
+- [x] Identify potential gray areas
 
 ## Stage 2: Participate in Test Planning
 - [ ] Learn how a test plan is used
