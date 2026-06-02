@@ -18,7 +18,7 @@
 - [x] Understand the difference between a test plan and test strategy
 
 ## Stage 3: Design Test Cases
-- [ ] Get familiar with the principles of test design
+- [x] Get familiar with the principles of test design
 - [ ] Get familiar with relevant software tools
 - [ ] Explore positive and negative testing types
 - [ ] Learn how positive and negative testing are used
