@@ -18,15 +18,15 @@
 - [x] Understand the difference between a test plan and test strategy
 
 ## Stage 3: Design Test Cases
-- [ ] Get familiar with the principles of test design
-- [ ] Get familiar with relevant software tools
-- [ ] Explore positive and negative testing types
-- [ ] Learn how positive and negative testing are used
-- [ ] Dive into black-box testing techniques
-- [ ] Practice equivalence partitioning
-- [ ] Practice boundary values analysis
-- [ ] Practice pairwise testing
-- [ ] Practice decision tables
+- [x] Get familiar with the principles of test design
+- [x] Get familiar with relevant software tools
+- [x] Explore positive and negative testing types
+- [x] Learn how positive and negative testing are used
+- [x] Dive into black-box testing techniques
+- [x] Practice equivalence partitioning
+- [X] Practice boundary values analysis
+- [X] Practice pairwise testing
+- [x] Practice decision tables
 
 ## Stage 4: Set up the Test Environment
 - [ ] Understand why environments are set up for testing
