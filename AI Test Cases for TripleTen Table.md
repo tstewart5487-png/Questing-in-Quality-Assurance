@@ -17,7 +17,7 @@
 | **TC-006** | REQ-002, 003 | Large Input Clipboard Paste Truncation | `1122334455667788` | 1. Copy a 16-digit numeric string to the clipboard.<br>2. Right-click the empty "Card number (not yours):" field and select "Paste" (or use Ctrl+V / Cmd+V).<br>3. Inspect the field contents. | The system processes the paste action but truncates the value, preserving only the first 12 digits: `112233445566`. | [ ] | [x] |
 
 ### ✅ Interactive Execution Checklist
-- [ ] **TC-001:** Reject Non-Numeric Input
+- [x] **TC-001:** Reject Non-Numeric Input
 - [ ] **TC-002:** 11 Digits Entered (Link Button Stays Inactive)
 - [ ] **TC-003:** 12 Digits Entered (Link Button Activates)
 - [ ] **TC-004:** 13 Digits Typed (Truncation at 12)
