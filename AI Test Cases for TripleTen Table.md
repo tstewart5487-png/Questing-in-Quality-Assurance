@@ -20,6 +20,6 @@
 - [x] **TC-001:** Reject Non-Numeric Input
 - [x] **TC-002:** 11 Digits Entered (Link Button Stays Inactive)
 - [x] **TC-003:** 12 Digits Entered (Link Button Activates)
-- [ ] **TC-004:** 13 Digits Typed (Truncation at 12)
+- [x] **TC-004:** 13 Digits Typed (Truncation at 12)
 - [ ] **TC-005:** Blur Event Triggered (Formatting Check `nnnn nnnn nnnn`)
 - [ ] **TC-006:** 16 Digits Pasted (Truncation Check)
