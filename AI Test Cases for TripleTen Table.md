@@ -15,4 +15,10 @@
 | **TC-005** | REQ-004, 005 | Auto-Formatting (Blur) | `123456789012` | 1. Enter 12 digits.<br>2. Click outside the field.<br>3. Observe formatting. | Field displays: `1234 5678 9012`. | [ ] | [ ] |
 | **TC-006** | REQ-002, 003 | Paste Truncation | `1122334455667788` | 1. Copy a 16-digit number.<br>2. Paste into the input field.<br>3. Check field content. | Field contains only first 12 digits: `112233445566`. | [ ] | [ ] |
 
-
+### ✅ Interactive Execution Checklist
+- [ ] **TC-001:** Non-numeric Rejection
+- [ ] **TC-002:** BVA Lower Neighbor (11 digits)
+- [ ] **TC-003:** BVA Boundary (12 digits)
+- [ ] **TC-004:** BVA Upper Neighbor (13 digits)
+- [ ] **TC-005:** State Transition (Blur) Formatting
+- [ ] **TC-006:** Paste Truncation (16 digits)
