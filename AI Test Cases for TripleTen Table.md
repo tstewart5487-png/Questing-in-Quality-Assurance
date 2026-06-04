@@ -22,4 +22,4 @@
 - [x] **TC-003:** 12 Digits Entered (Link Button Activates)
 - [x] **TC-004:** 13 Digits Typed (Truncation at 12)
 - [x] **TC-005:** Blur Event Triggered (Formatting Check `nnnn nnnn nnnn`)
-- [ ] **TC-006:** 16 Digits Pasted (Truncation Check)
+- [x] **TC-006:** 16 Digits Pasted (Truncation Check)
