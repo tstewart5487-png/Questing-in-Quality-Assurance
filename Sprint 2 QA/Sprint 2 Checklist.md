@@ -31,17 +31,17 @@
 ## Stage 4: Set up the Test Environment
 - [x] Understand why environments are set up for testing
 - [x] Learn who sets up the test environment
-- [ ] Understand how environment setup impacts your work
+- [x] Understand how environment setup impacts your work
 
 ## Stage 5: Run Tests
-- [ ] Explore what happens during and after actual testing
-- [ ] Find out what happens after a bug is found
+- [x] Explore what happens during and after actual testing
+- [x] Find out what happens after a bug is found
 
 ## Stage 6: Closing the Testing Process
-- [ ] Learn about reports that summarize testing
-- [ ] Understand follow-up work done after testing
+- [x] Learn about reports that summarize testing
+- [x] Understand follow-up work done after testing
 
 ## Practical Application: Urban Routes App
-- [ ] Analyze the Urban Routes app requirements
-- [ ] Use black-box testing techniques to write test cases
+- [x] Analyze the Urban Routes app requirements
+- [x] Use black-box testing techniques to write test cases
 - [ ] Run your designed tests
