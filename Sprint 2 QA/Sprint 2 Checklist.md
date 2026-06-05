@@ -39,7 +39,7 @@
 
 ## Stage 6: Closing the Testing Process
 - [x] Learn about reports that summarize testing
-- [ ] Understand follow-up work done after testing
+- [x] Understand follow-up work done after testing
 
 ## Practical Application: Urban Routes App
 - [ ] Analyze the Urban Routes app requirements
