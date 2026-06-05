@@ -31,7 +31,7 @@
 ## Stage 4: Set up the Test Environment
 - [x] Understand why environments are set up for testing
 - [x] Learn who sets up the test environment
-- [ ] Understand how environment setup impacts your work
+- [x] Understand how environment setup impacts your work
 
 ## Stage 5: Run Tests
 - [ ] Explore what happens during and after actual testing
