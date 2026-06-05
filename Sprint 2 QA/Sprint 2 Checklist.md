@@ -34,7 +34,7 @@
 - [x] Understand how environment setup impacts your work
 
 ## Stage 5: Run Tests
-- [ ] Explore what happens during and after actual testing
+- [x] Explore what happens during and after actual testing
 - [ ] Find out what happens after a bug is found
 
 ## Stage 6: Closing the Testing Process
