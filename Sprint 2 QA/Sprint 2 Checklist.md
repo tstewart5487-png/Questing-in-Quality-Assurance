@@ -35,7 +35,7 @@
 
 ## Stage 5: Run Tests
 - [x] Explore what happens during and after actual testing
-- [ ] Find out what happens after a bug is found
+- [x] Find out what happens after a bug is found
 
 ## Stage 6: Closing the Testing Process
 - [ ] Learn about reports that summarize testing
