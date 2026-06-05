@@ -38,7 +38,7 @@
 - [x] Find out what happens after a bug is found
 
 ## Stage 6: Closing the Testing Process
-- [ ] Learn about reports that summarize testing
+- [x] Learn about reports that summarize testing
 - [ ] Understand follow-up work done after testing
 
 ## Practical Application: Urban Routes App
