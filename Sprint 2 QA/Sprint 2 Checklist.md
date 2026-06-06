@@ -44,4 +44,4 @@
 ## Practical Application: Urban Routes App
 - [x] Analyze the Urban Routes app requirements
 - [x] Use black-box testing techniques to write test cases
-- [ ] Run your designed tests
+- [x] Run your designed tests
