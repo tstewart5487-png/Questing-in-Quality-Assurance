@@ -1,8 +1,8 @@
-- [ ] `INIT_QUEST`: Testing the User Interface of a Web App: Introduction 🕯️
-- [ ] `SILVERSAINT_ARSENAL_V1`: Common UI Elements: Part 1 ⚔️
-- [ ] `SILVERSAINT_ARSENAL_V2`: Common UI Elements: Part 2 🩸
-- [ ] `THE_SANCTUM_OF_BLUEPRINTS`: Figma: Overview and Basic Functions 📐
-- [ ] `THE_BLESSED_BLADE`: Proofreading in Testing (Slaying Typos) ✍️
-- [ ] `COLDBLOOD_SANITY_CHECK`: Data Validation Testing (Exposing Weaknesses) 💥
-- [ ] `THE_MATRIX_OF_THE_FALLEN`: HTML Basics 📑
+- [x] `INIT_QUEST`: Testing the User Interface of a Web App: Introduction 🕯️
+- [x] `SILVERSAINT_ARSENAL_V1`: Common UI Elements: Part 1 ⚔️
+- [x] `SILVERSAINT_ARSENAL_V2`: Common UI Elements: Part 2 🩸
+- [x] `THE_SANCTUM_OF_BLUEPRINTS`: Figma: Overview and Basic Functions 📐
+- [x] `THE_BLESSED_BLADE`: Proofreading in Testing (Slaying Typos) ✍️
+- [x] `COLDBLOOD_SANITY_CHECK`: Data Validation Testing (Exposing Weaknesses) 💥
+- [x] `THE_MATRIX_OF_THE_FALLEN`: HTML Basics 📑
 - [ ] `HACK_THE_VAMPIRIC_MAINFRAME`: DevTools: The Elements Panel 🛠️
