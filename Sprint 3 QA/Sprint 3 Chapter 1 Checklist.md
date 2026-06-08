@@ -28,7 +28,7 @@
 - [x] Commit heavy static relics to local memory so your journey across pages doesn't require returning to the server.
 
 ### 🔲 Rite IX: The Immutable Journal (Client-Side Storage: Local Storage)
-- [ ] Forge persistent 10MB key-value codices that remain carved into the browser until explicitly purged by holy fire.
+- [x] Forge persistent 10MB key-value codices that remain carved into the browser until explicitly purged by holy fire.
 
 ### 🔲 Rite X: The Trial of the Grail (Quiz: Testing Web Applications)
 - [ ] Face the grand inquisitor's testing parameters to prove you can hunt down bugs and secure the perimeter.
