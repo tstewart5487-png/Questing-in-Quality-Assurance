@@ -4,7 +4,7 @@
 - [x] Decipher the dark magic separating static scripts from dynamic, living constructs.
 
 ### 🔲 Rite II: The Bloodline Pact (Client-Server Architecture)
-- [ ] Map the holy tether between the mortal seeker (Client) and the monolithic overlord (Server).
+- [x] Map the holy tether between the mortal seeker (Client) and the monolithic overlord (Server).
 - [ ] Track the precise transmission of requests and responses before dawn breaks.
 
 ### 🔲 Rite III: The Flesh & The Bone (The Frontend and Backend)
