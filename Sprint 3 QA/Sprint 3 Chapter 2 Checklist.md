@@ -3,6 +3,6 @@
 - [x] `SILVERSAINT_ARSENAL_V2`: Common UI Elements: Part 2 🩸
 - [x] `THE_SANCTUM_OF_BLUEPRINTS`: Figma: Overview and Basic Functions 📐
 - [x] `THE_BLESSED_BLADE`: Proofreading in Testing (Slaying Typos) ✍️
-- [ ] `COLDBLOOD_SANITY_CHECK`: Data Validation Testing (Exposing Weaknesses) 💥
+- [x] `COLDBLOOD_SANITY_CHECK`: Data Validation Testing (Exposing Weaknesses) 💥
 - [ ] `THE_MATRIX_OF_THE_FALLEN`: HTML Basics 📑
 - [ ] `HACK_THE_VAMPIRIC_MAINFRAME`: DevTools: The Elements Panel 🛠️
