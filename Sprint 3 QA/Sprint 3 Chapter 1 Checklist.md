@@ -1,7 +1,7 @@
 # 🩸 Chronicles of the Silver Order: Web Application Mastery
 
 ### 🔲 Rite I: Initiation into the Digital Realm (Basics of Web Applications)
-- [ ] Decipher the dark magic separating static scripts from dynamic, living constructs.
+- [x] Decipher the dark magic separating static scripts from dynamic, living constructs.
 
 ### 🔲 Rite II: The Bloodline Pact (Client-Server Architecture)
 - [ ] Map the holy tether between the mortal seeker (Client) and the monolithic overlord (Server).
