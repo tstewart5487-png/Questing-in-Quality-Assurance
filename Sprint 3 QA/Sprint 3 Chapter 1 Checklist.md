@@ -13,7 +13,7 @@
 
 ### 🔲 Rite IV: Incantations of the Ordo (Web Protocols: HTTP/S)
 - [x] Enforce the sacred ward of `HTTPS` encryption to keep the coldblooded from intercepting our secrets.
-- [ ] Master the status hexes (200 Success vs. 404 Cast into the Void).
+- [x] Master the status hexes (200 Success vs. 404 Cast into the Void).
 
 ### 🔲 Rite V: Map of San Michon (URLs)
 - [ ] Dissect the true coordinates of an online resource down to its protocol, domain, and query curses.
