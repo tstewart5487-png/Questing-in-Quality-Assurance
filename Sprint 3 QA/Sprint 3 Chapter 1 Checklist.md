@@ -31,4 +31,4 @@
 - [x] Forge persistent 10MB key-value codices that remain carved into the browser until explicitly purged by holy fire.
 
 ### 🔲 Rite X: The Trial of the Grail (Quiz: Testing Web Applications)
-- [ ] Face the grand inquisitor's testing parameters to prove you can hunt down bugs and secure the perimeter.
+- [x] Face the grand inquisitor's testing parameters to prove you can hunt down bugs and secure the perimeter.
