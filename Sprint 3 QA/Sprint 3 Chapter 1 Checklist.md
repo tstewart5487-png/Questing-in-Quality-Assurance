@@ -12,7 +12,7 @@
 - [x] Descend into the catacombs to study the hidden logic powering the domain (Backend).
 
 ### 🔲 Rite IV: Incantations of the Ordo (Web Protocols: HTTP/S)
-- [ ] Enforce the sacred ward of `HTTPS` encryption to keep the coldblooded from intercepting our secrets.
+- [x] Enforce the sacred ward of `HTTPS` encryption to keep the coldblooded from intercepting our secrets.
 - [ ] Master the status hexes (200 Success vs. 404 Cast into the Void).
 
 ### 🔲 Rite V: Map of San Michon (URLs)
