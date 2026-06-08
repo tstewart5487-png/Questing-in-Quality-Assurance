@@ -9,7 +9,7 @@
 
 ### 🔲 Rite III: The Flesh & The Bone (The Frontend and Backend)
 - [x] Polish the silver-plated interface that the world beholds (Frontend).
-- [ ] Descend into the catacombs to study the hidden logic powering the domain (Backend).
+- [x] Descend into the catacombs to study the hidden logic powering the domain (Backend).
 
 ### 🔲 Rite IV: Incantations of the Ordo (Web Protocols: HTTP/S)
 - [ ] Enforce the sacred ward of `HTTPS` encryption to keep the coldblooded from intercepting our secrets.
