@@ -22,7 +22,7 @@
 - [x] Strike `F12` to manifest your true-sight, exposing hidden flaws in the elements and intercepting network traffic.
 
 ### 🔲 Rite VII: Rations for the Hunt (Client-Side Storage: Cookies)
-- [ ] Inspect the fragile 4KB tokens passed continuously between client and server to trace user sessions.
+- [x] Inspect the fragile 4KB tokens passed continuously between client and server to trace user sessions.
 
 ### 🔲 Rite VIII: Fast-Travel Wards (Client-Side Storage: The Cache)
 - [ ] Commit heavy static relics to local memory so your journey across pages doesn't require returning to the server.
