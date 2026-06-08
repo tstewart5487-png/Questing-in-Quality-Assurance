@@ -25,7 +25,7 @@
 - [x] Inspect the fragile 4KB tokens passed continuously between client and server to trace user sessions.
 
 ### 🔲 Rite VIII: Fast-Travel Wards (Client-Side Storage: The Cache)
-- [ ] Commit heavy static relics to local memory so your journey across pages doesn't require returning to the server.
+- [x] Commit heavy static relics to local memory so your journey across pages doesn't require returning to the server.
 
 ### 🔲 Rite IX: The Immutable Journal (Client-Side Storage: Local Storage)
 - [ ] Forge persistent 10MB key-value codices that remain carved into the browser until explicitly purged by holy fire.
