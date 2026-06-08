@@ -19,7 +19,7 @@
 - [x] Dissect the true coordinates of an online resource down to its protocol, domain, and query curses.
 
 ### 🔲 Rite VI: True-Sight of the Silversaint (An Overview of DevTools)
-- [ ] Strike `F12` to manifest your true-sight, exposing hidden flaws in the elements and intercepting network traffic.
+- [x] Strike `F12` to manifest your true-sight, exposing hidden flaws in the elements and intercepting network traffic.
 
 ### 🔲 Rite VII: Rations for the Hunt (Client-Side Storage: Cookies)
 - [ ] Inspect the fragile 4KB tokens passed continuously between client and server to trace user sessions.
