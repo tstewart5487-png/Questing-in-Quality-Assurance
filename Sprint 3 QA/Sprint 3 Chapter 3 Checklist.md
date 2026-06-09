@@ -4,4 +4,4 @@
 - [x] Cross-Browser Testing
 - [x] Testing on Different Platforms and Operating Systems
 - [x] Testing on Different Browsers
-- [ ] DevTools: Emulating Platforms
+- [x] DevTools: Emulating Platforms
