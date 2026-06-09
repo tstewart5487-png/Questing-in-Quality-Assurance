@@ -1,6 +1,6 @@
 ### 📑 03 Cross-Browser Testing
 
-- [ ] Cross-Browser Testing: Introduction
+- [x] Cross-Browser Testing: Introduction
 - [ ] Cross-Browser Testing
 - [ ] Testing on Different Platforms and Operating Systems
 - [ ] Testing on Different Browsers
