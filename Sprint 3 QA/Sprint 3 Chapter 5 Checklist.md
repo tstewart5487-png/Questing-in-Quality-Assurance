@@ -11,7 +11,7 @@
   - Explore external proxy utilities like Fiddler or Charles to intercept and analyze backend traffic outside the browser sandbox.
 - [x] **The DevTools Network Panel**
   - Learn how to navigate the Network tab to record logs, clear active streams, filter requests by property, and interpret waterfall graphs.
-- [ ] **JSON Overview**
+- [x] **JSON Overview**
   - Master the syntax rules of JavaScript Object Notation (JSON) used by modern APIs to structure and deliver web application data.
 - [ ] **DevTools: Overriding Responses**
   - Set up local workspace overrides in Chrome to independently simulate server values, mimic backend states, and test frontend edge cases.
