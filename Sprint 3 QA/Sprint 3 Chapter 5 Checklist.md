@@ -3,7 +3,7 @@
 
 ### 📦 Chapter 05: Requests and Responses
 
-- [ ] **Requests and Responses: Introduction**
+- [x] **Requests and Responses: Introduction**
   - Discover how client-server communication functions under the hood and why inspecting network data is essential for black-box testing.
 - [ ] **The Structure of Requests and Responses**
   - Demystify HTTP headers, status codes, methods, and payloads to accurately identify what data is being passed back and forth.
