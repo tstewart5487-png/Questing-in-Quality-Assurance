@@ -18,6 +18,6 @@
   - Strategic planning to streamline visual regressions across modern rendering engines (Blink, Gecko, WebKit).
   - Efficiency protocols designed to maximize platform test coverage while eliminating workflow redundancies.
 
-- [ ] **04.5 Using DevTools for Responsive Design Testing**
+- [x] **04.5 Using DevTools for Responsive Design Testing**
   - Practical application of browser developer tools for multi-device simulation.
   - Testing techniques using hardware screen profile emulation, orientation shifts, and network/CPU throttling.
