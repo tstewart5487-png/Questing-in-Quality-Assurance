@@ -4,11 +4,14 @@ A comprehensive QA testing and documentation repository featuring test cases, au
 
 ## 📋 Overview
 
-This repository contains structured QA documentation, test case management, and testing scripts organized by sprint cycles. It serves as a learning resource and reference guide for quality assurance methodologies, boundary value analysis, and systematic testing practices.
+This repository contains structured QA documentation, test case management, and testing scripts organized by sprint cycles. It serves as both a learning resource and reference guide for quality assurance best practices.
 
 **Repository Type:** QA Documentation & Testing  
 **Primary Language:** Python  
-**Status:** Active
+**Status:** Active  
+**License:** MIT  
+
+---
 
 ## 📚 Quick Navigation - Table of Contents
 
@@ -80,6 +83,10 @@ This repository contains structured QA documentation, test case management, and 
 Chaos-Monkey-.-/
 ├── main.py                              # Main Python automation script
 ├── README.md                            # This file
+├── LICENSE                              # MIT License
+├── CHANGELOG.md                         # Version history
+├── CONTRIBUTING.md                      # Contribution guidelines
+├── .gitignore                           # Git ignore rules
 ├── AI Test Cases for TripleTen Table.md # Detailed BVA test case documentation
 ├── Bridge Course/                       # Bridge course materials
 │   ├── Calendar.py
@@ -122,6 +129,8 @@ Chaos-Monkey-.-/
 └── .idea/                               # IDE configuration files
 ```
 
+---
+
 ## 🧪 Key Features
 
 ### Test Case Documentation
@@ -131,7 +140,7 @@ Chaos-Monkey-.-/
 
 ### Sprint-Based Organization
 - **Sprint 1 QA** - Initial QA documentation and foundational test cases
-- **Sprint 2 QA** - Expanded testing scope and additional scenarios
+- **Sprint 2 QA** - Expanded testing scope and STLC integration
 - **Sprint 3 QA** - Advanced testing and edge case validation with chapter-based organization
 
 ### Testing Artifacts
@@ -139,6 +148,8 @@ Chaos-Monkey-.-/
 - Interactive execution checklists
 - Requirements mapping and traceability
 - Jira and Trello integration documents
+
+---
 
 ## 📝 Test Case Example
 
@@ -153,12 +164,15 @@ The repository includes detailed test cases such as:
 | TC-005 | Auto-Formatting | Space insertion on blur event |
 | TC-006 | Clipboard Paste | Large input truncation |
 
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
 - Python 3.x (for automation scripts)
 - Text editor or IDE (for reviewing documentation)
-- GitHub access to this repository
+- Git (for version control)
+- GitHub account (for contributions)
 
 ### Running Tests
 
@@ -175,6 +189,8 @@ python main.py
 3. Reference [Jira](Jira) and [Trello](Trello) folders for project tracking details
 4. Use the **Quick Navigation** table above to jump directly to any document
 
+---
+
 ## 📚 QA Methodology
 
 This repository emphasizes:
@@ -183,6 +199,8 @@ This repository emphasizes:
 - **Requirements-Based Testing** - Mapping test cases to specific requirements
 - **Systematic Test Planning** - Organized by sprint and functionality
 - **Traceability** - Clear linkage between requirements and test cases
+
+---
 
 ## 🔄 Sprint Cycles
 
@@ -193,13 +211,17 @@ Testing is organized by sprint milestones:
 - **Sprint 2 QA** - Development phase testing with STLC integration
 - **Sprint 3 QA** - Advanced phase testing with chapter-based learning (3 chapters)
 
-## 📊 Documentation Files
+---
+
+## 📊 Documentation Files Summary
 
 - **AI Test Cases for TripleTen Table.md** - Detailed BVA test cases for Urban Grocer payment input validation
 - **Sprint 3 Chapter Notes** - Chapter-specific learning materials and notes
 - **Sprint 3 Checklists** - Completion checklists for each chapter
 - **Jira/** - Contains Jira-related planning and issue tracking
 - **Trello/** - Contains Trello board data and task organization
+
+---
 
 ## 🛠️ Tools & Integration
 
@@ -208,26 +230,50 @@ Testing is organized by sprint milestones:
 - **Python** - Automation and scripting
 - **GitHub** - Version control and documentation
 
-## 👤 Author
+---
 
-Created by **tstewart5487-png**
+## 👤 Author & Contributors
+
+**Created by:** tstewart5487-png
+
+**Contributing:** See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
+
+---
 
 ## 📄 License
 
-This repository is currently unlicensed. For licensing information, please contact the repository owner.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+---
 
 ## 💬 Contributing
 
 For contributions, issues, or suggestions:
 1. Create a new issue in the repository
-2. Follow existing documentation standards
+2. Follow guidelines in [CONTRIBUTING.md](CONTRIBUTING.md)
 3. Reference sprint cycles and requirements where applicable
-
-## 📞 Support
-
-For questions or clarifications about test cases and documentation, refer to the specific sprint folders or test case files included in this repository.
+4. Submit a pull request with clear descriptions
 
 ---
 
+## 📞 Support & Resources
+
+For questions or clarifications about test cases and documentation:
+- Review the specific sprint folders relevant to your question
+- Check [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines
+- Reference test case files in the repository
+- Create a GitHub Issue for specific questions
+
+---
+
+## 🔄 Version History
+
+**Current Version:** 1.0.0  
 **Last Updated:** June 2026  
-**Status:** Active Development
+**Status:** Active Development  
+
+See [CHANGELOG.md](CHANGELOG.md) for detailed version history and planned enhancements.
+
+---
+
+**Made with ❤️ for Quality Assurance Excellence**
