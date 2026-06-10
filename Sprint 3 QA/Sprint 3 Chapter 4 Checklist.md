@@ -2,7 +2,7 @@
 
 ### Course Progress & Syllabus Tracking
 
-- [ ] **04.1 Layout Adaptivity Testing: Introduction**
+- [x] **04.1 Layout Adaptivity Testing: Introduction**
   - High-level overview of interface layout adaptivity testing requirements.
   - Core objectives and fundamental verification standards for UI alignment across environments.
 
