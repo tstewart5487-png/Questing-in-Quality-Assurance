@@ -1,10 +1,10 @@
-# 🐵 Chaos Monkey - QA Testing Repository
+# 🎯 Questing in Quality Assurance
 
 A comprehensive QA testing and documentation repository featuring test cases, automation scripts, and quality assurance lessons for the **Urban Grocer** web application.
 
 ## 📋 Overview
 
-This repository contains structured QA documentation, test case management, and testing scripts organized by sprint cycles. It serves as both a learning resource and reference guide for quality assurance best practices.
+This repository contains structured QA documentation, test case management, and testing scripts organized by sprint cycles. It serves as both a learning resource and reference guide for quality assurance best practices and methodologies.
 
 **Repository Type:** QA Documentation & Testing  
 **Primary Language:** Python  
@@ -80,7 +80,7 @@ This repository contains structured QA documentation, test case management, and 
 ## 📁 Repository Structure
 
 ```
-Chaos-Monkey-.-/
+Questing-in-Quality-Assurance/
 ├── main.py                              # Main Python automation script
 ├── README.md                            # This file
 ├── LICENSE                              # MIT License
