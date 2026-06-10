@@ -1,6 +1,6 @@
 # 🎯 Questing in Quality Assurance
 
-A comprehensive QA testing and documentation repository featuring test cases, automation scripts, and quality assurance lessons for the **Urban Grocer** web application.
+A comprehensive QA testing and documentation repository featuring test cases, automation scripts, and quality assurance lessons.
 
 ## 📋 Overview
 
