@@ -9,7 +9,7 @@
   - Demystify HTTP headers, status codes, methods, and payloads to accurately identify what data is being passed back and forth.
 - [x] **Traffic Analyzers and Proxies**
   - Explore external proxy utilities like Fiddler or Charles to intercept and analyze backend traffic outside the browser sandbox.
-- [ ] **The DevTools Network Panel**
+- [x] **The DevTools Network Panel**
   - Learn how to navigate the Network tab to record logs, clear active streams, filter requests by property, and interpret waterfall graphs.
 - [ ] **JSON Overview**
   - Master the syntax rules of JavaScript Object Notation (JSON) used by modern APIs to structure and deliver web application data.
