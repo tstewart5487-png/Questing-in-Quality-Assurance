@@ -4,7 +4,7 @@ A comprehensive QA testing and documentation repository featuring test cases, au
 
 ## 📋 Overview
 
-This repository contains structured QA documentation, test case management, and testing scripts organized by sprint cycles. It serves as both a learning resource and reference guide for quality assurance best practices and methodologies.
+This repository contains structured QA documentation, test case management, and testing scripts organized by sprint cycles. It serves as both a learning resource and reference guide for quality assurance practices.
 
 **Repository Type:** QA Documentation & Testing  
 **Primary Language:** Python  
@@ -63,6 +63,12 @@ This repository contains structured QA documentation, test case management, and 
 | **Chapter 3** |  |  |
 | [Sprint 3 Chapter 3 Notes.md](Sprint%203%20QA/Sprint%203%20Chapter%203%20Notes.md) | Notes | Chapter 3 learning notes |
 | [Sprint 3 Chapter 3 Checklist.md](Sprint%203%20QA/Sprint%203%20Chapter%203%20Checklist.md) | Checklist | Chapter 3 completion checklist |
+| **Chapter 4** |  |  |
+| [Sprint 3 Chapter 4 notes.md](Sprint%203%20QA/Sprint%203%20Chapter%204%20notes.md) | Notes | Chapter 4 learning notes |
+| [Sprint 3 Chapter 4 Checklist.md](Sprint%203%20QA/Sprint%203%20Chapter%204%20Checklist.md) | Checklist | Chapter 4 completion checklist |
+| **Chapter 5** |  |  |
+| [Sprint 3 Chapter 5 Notes.md](Sprint%203%20QA/Sprint%203%20Chapter%205%20Notes.md) | Notes | Chapter 5 learning notes |
+| [Sprint 3 Chapter 5 Checklist.md](Sprint%203%20QA/Sprint%203%20Chapter%205%20Checklist.md) | Checklist | Chapter 5 completion checklist |
 
 ### Project Management
 | Document | Type | Description |
@@ -121,7 +127,11 @@ Questing-in-Quality-Assurance/
 │   ├── Sprint 3 Chapter 2 Notes.md
 │   ├── Sprint 3 Chapter 2 Checklist.md
 │   ├── Sprint 3 Chapter 3 Notes.md
-│   └── Sprint 3 Chapter 3 Checklist.md
+│   ├── Sprint 3 Chapter 3 Checklist.md
+│   ├── Sprint 3 Chapter 4 notes.md
+│   ├── Sprint 3 Chapter 4 Checklist.md
+│   ├── Sprint 3 Chapter 5 Notes.md
+│   └── Sprint 3 Chapter 5 Checklist.md
 ├── Jira/                                # Jira-related documentation
 │   └── Jira Notes.md
 ├── Trello/                              # Trello board exports and planning
@@ -140,8 +150,8 @@ Questing-in-Quality-Assurance/
 
 ### Sprint-Based Organization
 - **Sprint 1 QA** - Initial QA documentation and foundational test cases
-- **Sprint 2 QA** - Expanded testing scope and STLC integration
-- **Sprint 3 QA** - Advanced testing and edge case validation with chapter-based organization
+- **Sprint 2 QA** - Expanded testing scope and STLC integration (8 chapters)
+- **Sprint 3 QA** - Advanced testing and edge case validation with chapter-based organization (5 chapters)
 
 ### Testing Artifacts
 - Test case tables with detailed steps and expected results
@@ -208,16 +218,17 @@ Testing is organized by sprint milestones:
 
 - **Bridge Course** - Initial setup and foundational concepts
 - **Sprint 1 QA** - Foundation phase testing with core QA methodologies
-- **Sprint 2 QA** - Development phase testing with STLC integration
-- **Sprint 3 QA** - Advanced phase testing with chapter-based learning (3 chapters)
+- **Sprint 2 QA** - Development phase testing with STLC integration (8 chapters)
+- **Sprint 3 QA** - Advanced phase testing with chapter-based learning (5 chapters covering core QA competencies)
 
 ---
 
 ## 📊 Documentation Files Summary
 
 - **AI Test Cases for TripleTen Table.md** - Detailed BVA test cases for Urban Grocer payment input validation
-- **Sprint 3 Chapter Notes** - Chapter-specific learning materials and notes
-- **Sprint 3 Checklists** - Completion checklists for each chapter
+- **Sprint 2 QA** - Eight comprehensive chapters covering STLC, requirements analysis, test planning, and test design
+- **Sprint 3 Chapter Notes** - Chapter-specific learning materials and notes (5 comprehensive chapters)
+- **Sprint 3 Checklists** - Completion checklists for each chapter with progress tracking
 - **Jira/** - Contains Jira-related planning and issue tracking
 - **Trello/** - Contains Trello board data and task organization
 
@@ -229,6 +240,7 @@ Testing is organized by sprint milestones:
 - **Trello** - Task board and sprint planning
 - **Python** - Automation and scripting
 - **GitHub** - Version control and documentation
+- **Chrome DevTools** - Advanced browser testing and debugging (covered in Sprint 3 Chapter 5)
 
 ---
 
@@ -273,7 +285,3 @@ For questions or clarifications about test cases and documentation:
 **Status:** Active Development  
 
 See [CHANGELOG.md](CHANGELOG.md) for detailed version history and planned enhancements.
-
----
-
-**Made with ❤️ for Quality Assurance Excellence**
