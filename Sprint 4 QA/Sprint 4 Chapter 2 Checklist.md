@@ -1,6 +1,6 @@
 ## 📋 Postman Chapter Checklist
 
-- [ ] The Power of Postman
+- [x] The Power of Postman
 - [ ] Making a GET Request with Postman
 - [ ] Understanding Urban Grocers Structure and Logic
 - [ ] Adding Parameters to Requests
