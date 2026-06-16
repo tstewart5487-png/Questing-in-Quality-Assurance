@@ -5,7 +5,7 @@
 - [x] Understanding Urban Grocers Structure and Logic
 - [x] Adding Parameters to Requests
 - [x] Dynamic URLs in Postman
-- [ ] Making POST Requests
+- [x] Making POST Requests
 - [ ] Accessing the Urban Grocers database
 - [ ] More About POST Requests
 - [ ] Making PUT and DELETE Requests
