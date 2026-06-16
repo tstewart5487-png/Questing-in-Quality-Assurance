@@ -1,6 +1,6 @@
 ## 01. Introduction to APIs
 
-- [ ] **API Testing: Introduction**
+- [x] **API Testing: Introduction**
   - Learn why API testing is essential for software stability through the story of a system failure.
 - [ ] **Understanding the Basics of APIs**
   - Grasp fundamental concepts of how independent software systems communicate and interact.
