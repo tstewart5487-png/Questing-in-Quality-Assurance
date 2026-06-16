@@ -3,7 +3,7 @@
 - [x] The Power of Postman
 - [x] Making a GET Request with Postman
 - [x] Understanding Urban Grocers Structure and Logic
-- [ ] Adding Parameters to Requests
+- [x] Adding Parameters to Requests
 - [ ] Dynamic URLs in Postman
 - [ ] Making POST Requests
 - [ ] Accessing the Urban Grocers database
