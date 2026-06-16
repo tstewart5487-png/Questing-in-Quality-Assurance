@@ -6,7 +6,7 @@
 - [x] Adding Parameters to Requests
 - [x] Dynamic URLs in Postman
 - [x] Making POST Requests
-- [ ] Accessing the Urban Grocers database
+- [x] Accessing the Urban Grocers database
 - [ ] More About POST Requests
 - [ ] Making PUT and DELETE Requests
 - [ ] Understanding CRUD Through HTTP Methods
