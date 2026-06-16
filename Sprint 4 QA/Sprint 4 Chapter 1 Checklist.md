@@ -1,14 +1,12 @@
-# 📡 Introduction to APIs
-> **5 lessons left**
+## 01. Introduction to APIs
 
-## Lessons
-
-- [ ] [API Testing: Introduction](https://tripleten.com/trainer/qa-engineer-us/lesson/bb4b2829-e8ab-49b3-a163-71e1dbc7f6d6/?from=program) — *Theory · 10 min*
-- [ ] Understanding the Basics of APIs — *Theory · 30 min*
-- [ ] Sending an API Request — *Theory · 15 min*
-- [ ] Understanding JSON Responses — *Theory · 20 min*
-- [ ] Architectural Styles: REST and SOAP — *Theory · 15 min*
-
----
-
-**Total time remaining:** ~90 min
+- [ ] **API Testing: Introduction**
+  - Learn why API testing is essential for software stability through the story of a system failure.
+- [ ] **Understanding the Basics of APIs**
+  - Grasp fundamental concepts of how independent software systems communicate and interact.
+- [ ] **Sending an API Request**
+  - Discover how clients structure and dispatch actual requests to target web services.
+- [ ] **Understanding JSON Responses**
+  - Learn how to parse, read, and interpret data returned in the standard JSON text format.
+- [ ] **Architectural Styles: REST and SOAP**
+  - Compare the foundational design patterns, constraints, and rules governing web APIs.
