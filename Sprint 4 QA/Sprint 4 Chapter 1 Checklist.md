@@ -8,5 +8,5 @@
   - Discover how clients structure and dispatch actual requests to target web services.
 - [x] **Understanding JSON Responses**
   - Learn how to parse, read, and interpret data returned in the standard JSON text format.
-- [ ] **Architectural Styles: REST and SOAP**
+- [x] **Architectural Styles: REST and SOAP**
   - Compare the foundational design patterns, constraints, and rules governing web APIs.
