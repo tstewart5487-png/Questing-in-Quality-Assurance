@@ -5,7 +5,7 @@
 - [x] Analyze endpoints, expected requests, and response structures.
 
 ## API Logs
-- [ ] Learn the fundamentals of logging API events and errors.
+- [x] Learn the fundamentals of logging API events and errors.
 - [ ] Establish best practices for tracking request payloads and status codes.
 
 ## Swagger
