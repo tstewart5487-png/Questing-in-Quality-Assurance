@@ -5,7 +5,7 @@
     - [x] Identify key differences between REST and SOAP features
 - [x] XML: Element Structure
     - [x] Learn naming rules for elements, tags, and nesting mechanics
-    - [ ] Understand how to pass metadata using optional attributes
+    - [x] Understand how to pass metadata using optional attributes
 - [ ] XML: Document Structure
     - [ ] Enforce structural integrity with a required single root element
     - [ ] Verify if an XML document is well-formed and valid
