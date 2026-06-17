@@ -9,7 +9,7 @@
 - [x] Establish best practices for tracking request payloads and status codes.
 
 ## Swagger
-- [ ] Explore Swagger for creating and maintaining digital API documentation.
+- [x] Explore Swagger for creating and maintaining digital API documentation.
 - [ ] Write and read OpenAPI / Swagger specification structures.
 
 ## apiDoc
