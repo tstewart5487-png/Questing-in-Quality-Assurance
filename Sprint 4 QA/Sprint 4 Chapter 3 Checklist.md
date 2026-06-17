@@ -1,7 +1,7 @@
 # Chapter 03: API Documentation and Logs
 
 ## API Documentation and Logs: Introduction
-- [ ] Understand the importance of API documentation for app integration.
+- [x] Understand the importance of API documentation for app integration.
 - [ ] Analyze endpoints, expected requests, and response structures.
 
 ## API Logs
