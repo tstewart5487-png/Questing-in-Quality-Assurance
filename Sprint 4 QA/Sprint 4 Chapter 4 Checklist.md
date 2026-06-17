@@ -3,7 +3,7 @@
 - [x] API Technologies: Introduction
     - [x] Understand the differences between architectural styles and protocols
     - [x] Identify key differences between REST and SOAP features
-- [ ] XML: Element Structure
+- [x] XML: Element Structure
     - [ ] Learn naming rules for elements, tags, and nesting mechanics
     - [ ] Understand how to pass metadata using optional attributes
 - [ ] XML: Document Structure
