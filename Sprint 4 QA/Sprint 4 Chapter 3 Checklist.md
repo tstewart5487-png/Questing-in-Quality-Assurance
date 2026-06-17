@@ -2,7 +2,7 @@
 
 ## API Documentation and Logs: Introduction
 - [x] Understand the importance of API documentation for app integration.
-- [ ] Analyze endpoints, expected requests, and response structures.
+- [x] Analyze endpoints, expected requests, and response structures.
 
 ## API Logs
 - [ ] Learn the fundamentals of logging API events and errors.
