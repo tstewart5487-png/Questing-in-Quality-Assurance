@@ -9,6 +9,6 @@
 - [x] Accessing the Urban Grocers database
 - [x] More About POST Requests
 - [x] Making PUT and DELETE Requests
-- [ ] Understanding CRUD Through HTTP Methods
+- [x] Understanding CRUD Through HTTP Methods
 - [ ] Making Requests Involving Authorization
 - [ ] cURL and Generating a Request
