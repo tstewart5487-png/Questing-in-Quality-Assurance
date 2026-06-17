@@ -1,7 +1,7 @@
 ## API Technologies: REST and SOAP
 
 - [x] API Technologies: Introduction
-    - [ ] Understand the differences between architectural styles and protocols
+    - [x] Understand the differences between architectural styles and protocols
     - [ ] Identify key differences between REST and SOAP features
 - [ ] XML: Element Structure
     - [ ] Learn naming rules for elements, tags, and nesting mechanics
