@@ -10,7 +10,7 @@
 
 ## Swagger
 - [x] Explore Swagger for creating and maintaining digital API documentation.
-- [ ] Write and read OpenAPI / Swagger specification structures.
+- [x] Write and read OpenAPI / Swagger specification structures.
 
 ## apiDoc
 - [ ] Understand inline code documentation approaches using apiDoc.
