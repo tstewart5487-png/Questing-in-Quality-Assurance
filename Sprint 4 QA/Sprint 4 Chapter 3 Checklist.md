@@ -13,5 +13,5 @@
 - [x] Write and read OpenAPI / Swagger specification structures.
 
 ## apiDoc
-- [ ] Understand inline code documentation approaches using apiDoc.
+- [x] Understand inline code documentation approaches using apiDoc.
 - [ ] Generate standard API documentation directly from project code comments.
