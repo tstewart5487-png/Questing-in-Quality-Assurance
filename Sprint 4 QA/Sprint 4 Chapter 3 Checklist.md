@@ -14,4 +14,4 @@
 
 ## apiDoc
 - [x] Understand inline code documentation approaches using apiDoc.
-- [ ] Generate standard API documentation directly from project code comments.
+- [x] Generate standard API documentation directly from project code comments.
