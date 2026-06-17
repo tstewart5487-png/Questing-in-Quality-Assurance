@@ -6,7 +6,7 @@
 
 ## API Logs
 - [x] Learn the fundamentals of logging API events and errors.
-- [ ] Establish best practices for tracking request payloads and status codes.
+- [x] Establish best practices for tracking request payloads and status codes.
 
 ## Swagger
 - [ ] Explore Swagger for creating and maintaining digital API documentation.
