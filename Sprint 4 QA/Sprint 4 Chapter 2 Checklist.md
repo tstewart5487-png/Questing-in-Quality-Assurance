@@ -11,4 +11,4 @@
 - [x] Making PUT and DELETE Requests
 - [x] Understanding CRUD Through HTTP Methods
 - [x] Making Requests Involving Authorization
-- [ ] cURL and Generating a Request
+- [x] cURL and Generating a Request
