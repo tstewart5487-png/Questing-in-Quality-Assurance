@@ -1,0 +1,26 @@
+## API Technologies: REST and SOAP
+
+- [ ] API Technologies: Introduction
+    - [ ] Understand the differences between architectural styles and protocols
+    - [ ] Identify key differences between REST and SOAP features
+- [ ] XML: Element Structure
+    - [ ] Learn naming rules for elements, tags, and nesting mechanics
+    - [ ] Understand how to pass metadata using optional attributes
+- [ ] XML: Document Structure
+    - [ ] Enforce structural integrity with a required single root element
+    - [ ] Verify if an XML document is well-formed and valid
+- [ ] XSD
+    - [ ] Define custom data structure blueprints for XML payloads
+    - [ ] Set restrictions, types, and element validation rules
+- [ ] XML and JSON
+    - [ ] Compare data serialization rules and performance footprints
+    - [ ] Determine when to prefer light data trees over heavy syntax
+- [ ] SOAP
+    - [ ] Map out mandatory message building blocks like Envelope and Body
+    - [ ] Inspect error-handling payloads using the Fault element structure
+- [ ] WSDL
+    - [ ] Read service description specs from bottom to top
+    - [ ] Parse endpoints, operations, and network bindings
+- [ ] SOAP and JSON
+    - [ ] Review how modern gateways handle data translation layers
+    - [ ] Understand edge cases where JSON formats bridge into legacy protocols
