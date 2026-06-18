@@ -16,7 +16,7 @@
     - [x] Compare data serialization rules and performance footprints
     - [x] Determine when to prefer light data trees over heavy syntax
 - [x] SOAP
-    - [ ] Map out mandatory message building blocks like Envelope and Body
+    - [x] Map out mandatory message building blocks like Envelope and Body
     - [ ] Inspect error-handling payloads using the Fault element structure
 - [ ] WSDL
     - [ ] Read service description specs from bottom to top
