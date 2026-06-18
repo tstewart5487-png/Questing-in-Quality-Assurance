@@ -5,7 +5,7 @@
 - [x] Transition from light exploratory testing to thorough, structured test cases for complex APIs.
 
 #### Review: Testing an API Endpoint
-- [ ] Verify core endpoint behavior by sending structured requests and tracking server actions.
+- [x] Verify core endpoint behavior by sending structured requests and tracking server actions.
 - [ ] Evaluate received response payloads against expected data formats and business rules.
 
 #### Designing API Test Cases Part 1
