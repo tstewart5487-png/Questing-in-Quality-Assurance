@@ -15,7 +15,7 @@
 - [x] XML and JSON
     - [x] Compare data serialization rules and performance footprints
     - [x] Determine when to prefer light data trees over heavy syntax
-- [ ] SOAP
+- [x] SOAP
     - [ ] Map out mandatory message building blocks like Envelope and Body
     - [ ] Inspect error-handling payloads using the Fault element structure
 - [ ] WSDL
