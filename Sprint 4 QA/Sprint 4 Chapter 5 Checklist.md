@@ -2,7 +2,7 @@
 
 #### Designing API Tests: Introduction
 - [x] Understand key differences between UI testing and backend API request-response mechanics.
-- [ ] Transition from light exploratory testing to thorough, structured test cases for complex APIs.
+- [x] Transition from light exploratory testing to thorough, structured test cases for complex APIs.
 
 #### Review: Testing an API Endpoint
 - [ ] Verify core endpoint behavior by sending structured requests and tracking server actions.
