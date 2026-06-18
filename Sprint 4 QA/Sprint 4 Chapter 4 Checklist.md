@@ -22,5 +22,5 @@
     - [x] Read service description specs from bottom to top
     - [x] Parse endpoints, operations, and network bindings
 - [x] SOAP and JSON
-    - [ ] Review how modern gateways handle data translation layers
+    - [x] Review how modern gateways handle data translation layers
     - [ ] Understand edge cases where JSON formats bridge into legacy protocols
