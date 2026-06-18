@@ -18,7 +18,7 @@
 
 #### API Validation
 - [x] Confirm compliance with interface definitions across distinct REST and SOAP architectures.
-- [ ] Validate server response criteria including system status codes and schema integrity.
+- [x] Validate server response criteria including system status codes and schema integrity.
 
 #### Designing API Test Cases Part 3
 - [ ] Finalize complex, end-to-end integration test flows mimicking real-world project usage.
