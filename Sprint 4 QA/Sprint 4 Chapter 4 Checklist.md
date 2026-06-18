@@ -8,7 +8,7 @@
     - [x] Understand how to pass metadata using optional attributes
 - [x] XML: Document Structure
     - [x] Enforce structural integrity with a required single root element
-    - [ ] Verify if an XML document is well-formed and valid
+    - [x] Verify if an XML document is well-formed and valid
 - [ ] XSD
     - [ ] Define custom data structure blueprints for XML payloads
     - [ ] Set restrictions, types, and element validation rules
