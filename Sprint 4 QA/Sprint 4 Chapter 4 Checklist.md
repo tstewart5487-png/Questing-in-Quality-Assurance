@@ -12,7 +12,7 @@
 - [x] XSD
     - [x] Define custom data structure blueprints for XML payloads
     - [x] Set restrictions, types, and element validation rules
-- [ ] XML and JSON
+- [x] XML and JSON
     - [ ] Compare data serialization rules and performance footprints
     - [ ] Determine when to prefer light data trees over heavy syntax
 - [ ] SOAP
