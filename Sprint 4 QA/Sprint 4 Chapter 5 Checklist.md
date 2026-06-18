@@ -9,7 +9,7 @@
 - [x] Evaluate received response payloads against expected data formats and business rules.
 
 #### Designing API Test Cases Part 1
-- [ ] Structure fundamental test case formats explicitly tailored for testing API endpoints.
+- [x] Structure fundamental test case formats explicitly tailored for testing API endpoints.
 - [ ] Define precise inputs and request payloads required to evaluate happy-path scenarios.
 
 #### Designing API Test Cases Part 2
