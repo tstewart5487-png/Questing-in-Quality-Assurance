@@ -18,7 +18,7 @@
 - [x] SOAP
     - [x] Map out mandatory message building blocks like Envelope and Body
     - [x] Inspect error-handling payloads using the Fault element structure
-- [ ] WSDL
+- [x] WSDL
     - [ ] Read service description specs from bottom to top
     - [ ] Parse endpoints, operations, and network bindings
 - [ ] SOAP and JSON
