@@ -6,7 +6,7 @@
 
 #### Review: Testing an API Endpoint
 - [x] Verify core endpoint behavior by sending structured requests and tracking server actions.
-- [ ] Evaluate received response payloads against expected data formats and business rules.
+- [x] Evaluate received response payloads against expected data formats and business rules.
 
 #### Designing API Test Cases Part 1
 - [ ] Structure fundamental test case formats explicitly tailored for testing API endpoints.
