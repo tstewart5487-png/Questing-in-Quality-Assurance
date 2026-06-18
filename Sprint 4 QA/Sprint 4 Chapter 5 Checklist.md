@@ -13,7 +13,7 @@
 - [x] Define precise inputs and request payloads required to evaluate happy-path scenarios.
 
 #### Designing API Test Cases Part 2
-- [ ] Expand test coverage to handle negative scenarios, edge cases, and invalid inputs.
+- [x] Expand test coverage to handle negative scenarios, edge cases, and invalid inputs.
 - [ ] Design test criteria to verify accurate error handling and clean recovery protocols.
 
 #### API Validation
