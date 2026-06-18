@@ -23,4 +23,4 @@
     - [x] Parse endpoints, operations, and network bindings
 - [x] SOAP and JSON
     - [x] Review how modern gateways handle data translation layers
-    - [ ] Understand edge cases where JSON formats bridge into legacy protocols
+    - [x] Understand edge cases where JSON formats bridge into legacy protocols
