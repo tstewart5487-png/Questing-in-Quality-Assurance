@@ -20,7 +20,7 @@
     - [x] Inspect error-handling payloads using the Fault element structure
 - [x] WSDL
     - [x] Read service description specs from bottom to top
-    - [ ] Parse endpoints, operations, and network bindings
+    - [x] Parse endpoints, operations, and network bindings
 - [ ] SOAP and JSON
     - [ ] Review how modern gateways handle data translation layers
     - [ ] Understand edge cases where JSON formats bridge into legacy protocols
