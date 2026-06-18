@@ -10,7 +10,7 @@
     - [x] Enforce structural integrity with a required single root element
     - [x] Verify if an XML document is well-formed and valid
 - [x] XSD
-    - [ ] Define custom data structure blueprints for XML payloads
+    - [x] Define custom data structure blueprints for XML payloads
     - [ ] Set restrictions, types, and element validation rules
 - [ ] XML and JSON
     - [ ] Compare data serialization rules and performance footprints
