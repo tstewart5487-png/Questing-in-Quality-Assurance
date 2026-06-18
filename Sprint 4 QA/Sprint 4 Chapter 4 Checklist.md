@@ -19,7 +19,7 @@
     - [x] Map out mandatory message building blocks like Envelope and Body
     - [x] Inspect error-handling payloads using the Fault element structure
 - [x] WSDL
-    - [ ] Read service description specs from bottom to top
+    - [x] Read service description specs from bottom to top
     - [ ] Parse endpoints, operations, and network bindings
 - [ ] SOAP and JSON
     - [ ] Review how modern gateways handle data translation layers
