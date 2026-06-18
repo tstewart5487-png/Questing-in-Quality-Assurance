@@ -11,7 +11,7 @@
     - [x] Verify if an XML document is well-formed and valid
 - [x] XSD
     - [x] Define custom data structure blueprints for XML payloads
-    - [ ] Set restrictions, types, and element validation rules
+    - [x] Set restrictions, types, and element validation rules
 - [ ] XML and JSON
     - [ ] Compare data serialization rules and performance footprints
     - [ ] Determine when to prefer light data trees over heavy syntax
