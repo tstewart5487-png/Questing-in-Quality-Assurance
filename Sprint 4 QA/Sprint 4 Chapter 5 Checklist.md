@@ -1,7 +1,7 @@
 ### 📋 Chapter 05: Designing Tests for APIs
 
 #### Designing API Tests: Introduction
-- [ ] Understand key differences between UI testing and backend API request-response mechanics.
+- [x] Understand key differences between UI testing and backend API request-response mechanics.
 - [ ] Transition from light exploratory testing to thorough, structured test cases for complex APIs.
 
 #### Review: Testing an API Endpoint
