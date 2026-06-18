@@ -14,7 +14,7 @@
 
 #### Designing API Test Cases Part 2
 - [x] Expand test coverage to handle negative scenarios, edge cases, and invalid inputs.
-- [ ] Design test criteria to verify accurate error handling and clean recovery protocols.
+- [x] Design test criteria to verify accurate error handling and clean recovery protocols.
 
 #### API Validation
 - [ ] Confirm compliance with interface definitions across distinct REST and SOAP architectures.
