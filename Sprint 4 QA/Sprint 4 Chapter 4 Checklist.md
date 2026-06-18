@@ -17,7 +17,7 @@
     - [x] Determine when to prefer light data trees over heavy syntax
 - [x] SOAP
     - [x] Map out mandatory message building blocks like Envelope and Body
-    - [ ] Inspect error-handling payloads using the Fault element structure
+    - [x] Inspect error-handling payloads using the Fault element structure
 - [ ] WSDL
     - [ ] Read service description specs from bottom to top
     - [ ] Parse endpoints, operations, and network bindings
