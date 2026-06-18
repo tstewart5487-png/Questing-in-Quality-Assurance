@@ -25,5 +25,5 @@
 - [x] Prepare comprehensive test coverage data required to confidently start the final project.
 
 #### API Bug Reports
-- [ ] Document backend flaws systematically by isolating unexpected request-response variations.
+- [x] Document backend flaws systematically by isolating unexpected request-response variations.
 - [ ] Log precise technical details including endpoints, headers, payloads, and actual behavior.
