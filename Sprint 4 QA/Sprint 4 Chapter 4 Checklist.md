@@ -13,7 +13,7 @@
     - [x] Define custom data structure blueprints for XML payloads
     - [x] Set restrictions, types, and element validation rules
 - [x] XML and JSON
-    - [ ] Compare data serialization rules and performance footprints
+    - [x] Compare data serialization rules and performance footprints
     - [ ] Determine when to prefer light data trees over heavy syntax
 - [ ] SOAP
     - [ ] Map out mandatory message building blocks like Envelope and Body
