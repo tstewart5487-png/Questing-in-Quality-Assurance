@@ -6,21 +6,21 @@
 - [x] XML: Element Structure
     - [x] Learn naming rules for elements, tags, and nesting mechanics
     - [x] Understand how to pass metadata using optional attributes
-- [ ] XML: Document Structure
-    - [ ] Enforce structural integrity with a required single root element
-    - [ ] Verify if an XML document is well-formed and valid
-- [ ] XSD
-    - [ ] Define custom data structure blueprints for XML payloads
-    - [ ] Set restrictions, types, and element validation rules
-- [ ] XML and JSON
-    - [ ] Compare data serialization rules and performance footprints
-    - [ ] Determine when to prefer light data trees over heavy syntax
-- [ ] SOAP
-    - [ ] Map out mandatory message building blocks like Envelope and Body
-    - [ ] Inspect error-handling payloads using the Fault element structure
-- [ ] WSDL
-    - [ ] Read service description specs from bottom to top
-    - [ ] Parse endpoints, operations, and network bindings
-- [ ] SOAP and JSON
-    - [ ] Review how modern gateways handle data translation layers
-    - [ ] Understand edge cases where JSON formats bridge into legacy protocols
+- [x] XML: Document Structure
+    - [x] Enforce structural integrity with a required single root element
+    - [x] Verify if an XML document is well-formed and valid
+- [x] XSD
+    - [x] Define custom data structure blueprints for XML payloads
+    - [x] Set restrictions, types, and element validation rules
+- [x] XML and JSON
+    - [x] Compare data serialization rules and performance footprints
+    - [x] Determine when to prefer light data trees over heavy syntax
+- [x] SOAP
+    - [x] Map out mandatory message building blocks like Envelope and Body
+    - [x] Inspect error-handling payloads using the Fault element structure
+- [x] WSDL
+    - [x] Read service description specs from bottom to top
+    - [x] Parse endpoints, operations, and network bindings
+- [x] SOAP and JSON
+    - [x] Review how modern gateways handle data translation layers
+    - [x] Understand edge cases where JSON formats bridge into legacy protocols
