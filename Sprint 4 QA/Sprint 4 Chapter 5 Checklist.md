@@ -26,4 +26,4 @@
 
 #### API Bug Reports
 - [x] Document backend flaws systematically by isolating unexpected request-response variations.
-- [ ] Log precise technical details including endpoints, headers, payloads, and actual behavior.
+- [x] Log precise technical details including endpoints, headers, payloads, and actual behavior.
