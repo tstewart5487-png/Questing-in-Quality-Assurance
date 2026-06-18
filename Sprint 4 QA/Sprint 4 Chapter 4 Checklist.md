@@ -7,7 +7,7 @@
     - [x] Learn naming rules for elements, tags, and nesting mechanics
     - [x] Understand how to pass metadata using optional attributes
 - [x] XML: Document Structure
-    - [ ] Enforce structural integrity with a required single root element
+    - [x] Enforce structural integrity with a required single root element
     - [ ] Verify if an XML document is well-formed and valid
 - [ ] XSD
     - [ ] Define custom data structure blueprints for XML payloads
