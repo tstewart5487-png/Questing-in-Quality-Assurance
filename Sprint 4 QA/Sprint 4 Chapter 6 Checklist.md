@@ -16,7 +16,7 @@
 
 ## Testing Values in Key-value Pairs
 - [x] Check exact expected values
-- [ ] Match key data types
+- [x] Match key data types
 
 ## Testing Arrays
 - [ ] Verify list element existence
