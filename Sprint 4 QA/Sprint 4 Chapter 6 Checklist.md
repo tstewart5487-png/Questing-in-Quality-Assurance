@@ -1,6 +1,6 @@
 ## Testing a Response Body: Initial Analysis
 - [x] Verify HTTP response status code
-- [ ] Match payload content-type header
+- [x] Match payload content-type header
 
 ## Arrays
 - [ ] Initialize test data structures
