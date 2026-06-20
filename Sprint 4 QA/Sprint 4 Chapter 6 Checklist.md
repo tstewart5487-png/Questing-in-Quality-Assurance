@@ -11,7 +11,7 @@
 - [x] Validate response schema format
 
 ## Testing a Request Body: Initial Analysis
-- [ ] Inspect outgoing payload schema
+- [x] Inspect outgoing payload schema
 - [ ] Confirm required fields exist
 
 ## Testing Values in Key-value Pairs
