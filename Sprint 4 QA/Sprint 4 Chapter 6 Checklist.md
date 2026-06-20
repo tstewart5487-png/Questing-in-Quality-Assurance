@@ -15,7 +15,7 @@
 - [x] Confirm required fields exist
 
 ## Testing Values in Key-value Pairs
-- [ ] Check exact expected values
+- [x] Check exact expected values
 - [ ] Match key data types
 
 ## Testing Arrays
