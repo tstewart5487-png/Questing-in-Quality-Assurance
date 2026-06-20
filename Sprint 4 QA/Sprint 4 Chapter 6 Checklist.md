@@ -7,7 +7,7 @@
 - [x] Count total collection elements
 
 ## Testing a Response Body
-- [ ] Assert exact body string
+- [x] Assert exact body string
 - [ ] Validate response schema format
 
 ## Testing a Request Body: Initial Analysis
