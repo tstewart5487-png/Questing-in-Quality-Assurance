@@ -3,7 +3,7 @@
 - [x] Match payload content-type header
 
 ## Arrays
-- [ ] Initialize test data structures
+- [x] Initialize test data structures
 - [ ] Count total collection elements
 
 ## Testing a Response Body
