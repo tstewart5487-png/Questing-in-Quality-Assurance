@@ -20,7 +20,7 @@
 
 ## Testing Arrays
 - [x] Verify list element existence
-- [ ] Validate internal item indexing
+- [x] Validate internal item indexing
 
 ## Testing Objects
 - [ ] Validate parent object keys
