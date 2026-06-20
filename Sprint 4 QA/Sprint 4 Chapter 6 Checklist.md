@@ -8,7 +8,7 @@
 
 ## Testing a Response Body
 - [x] Assert exact body string
-- [ ] Validate response schema format
+- [x] Validate response schema format
 
 ## Testing a Request Body: Initial Analysis
 - [ ] Inspect outgoing payload schema
