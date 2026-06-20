@@ -12,7 +12,7 @@
 
 ## Testing a Request Body: Initial Analysis
 - [x] Inspect outgoing payload schema
-- [ ] Confirm required fields exist
+- [x] Confirm required fields exist
 
 ## Testing Values in Key-value Pairs
 - [ ] Check exact expected values
