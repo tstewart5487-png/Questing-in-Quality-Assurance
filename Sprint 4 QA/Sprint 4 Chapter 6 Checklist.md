@@ -23,5 +23,5 @@
 - [x] Validate internal item indexing
 
 ## Testing Objects
-- [ ] Validate parent object keys
+- [x] Validate parent object keys
 - [ ] Confirm nested field integrity
