@@ -4,7 +4,7 @@
 
 ## Arrays
 - [x] Initialize test data structures
-- [ ] Count total collection elements
+- [x] Count total collection elements
 
 ## Testing a Response Body
 - [ ] Assert exact body string
