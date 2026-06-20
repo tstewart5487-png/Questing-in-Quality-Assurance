@@ -24,4 +24,4 @@
 
 ## Testing Objects
 - [x] Validate parent object keys
-- [ ] Confirm nested field integrity
+- [x] Confirm nested field integrity
