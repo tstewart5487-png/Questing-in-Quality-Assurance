@@ -1,5 +1,5 @@
 ## Testing a Response Body: Initial Analysis
-- [ ] Verify HTTP response status code
+- [x] Verify HTTP response status code
 - [ ] Match payload content-type header
 
 ## Arrays
