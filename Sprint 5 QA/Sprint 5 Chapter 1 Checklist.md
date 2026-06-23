@@ -8,7 +8,7 @@
     - [x] Fetching designated column data from a targeted table name
     - [x] Using the wildcard symbol to return all columns at once
 - [x] ### **Data Types**
-    - [ ] Defining text, numeric, and date formats for stored values
+    - [x] Defining text, numeric, and date formats for stored values
     - [ ] Preventing data errors by enforcing column validation rules
 - [ ] ### **The WHERE Clause**
     - [ ] Filtering query results to meet a specific row condition
