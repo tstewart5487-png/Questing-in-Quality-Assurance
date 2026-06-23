@@ -1,6 +1,6 @@
 - [x] ### **Tables and Databases**
     - [x] Relational structures storing data in strict columns and rows
-    - [ ] Primary keys uniquely identifying records within a collection
+    - [x] Primary keys uniquely identifying records within a collection
 - [ ] ### **Your First SQL Statement**
     - [ ] Executing standard instructions to communicate with a database
     - [ ] Basic syntax rules required to request specific table contents
