@@ -25,7 +25,7 @@
 *Endpoint:* `POST {{baseUrl}}/fast-delivery/v3.1.1/calculate-delivery.xml`
 *Headers Required:* `Content-Type: application/xml`
 
-- [ ] **TC-09:** Submit a valid XML delivery request matching the Shipping Price Calculations rules (`200 OK`)
+- [x] **TC-09:** Submit a valid XML delivery request matching the Shipping Price Calculations rules (`200 OK`)
 - [ ] **TC-10:** Send an XML request containing unclosed or malformed tags (`400 Bad Request`)
 - [ ] **TC-11:** Send an XML request missing mandatory elements from the Couriers documentation (`400 Bad Request`)
 
