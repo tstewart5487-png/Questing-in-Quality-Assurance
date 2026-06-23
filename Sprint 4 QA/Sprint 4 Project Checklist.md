@@ -4,7 +4,7 @@
 - [x] Ping server address to confirm status: `https://tripleten-services.com`
 - [x] Set up a global environment variable in Postman called `baseUrl`
 - [x] Open the API documentation (`/docs/`) and review required payload schemas
-- [ ] Sync spreadsheet columns with standard QA template guidelines
+- [x] Sync spreadsheet columns with standard QA template guidelines
 
 ## 🧪 Phase 2: Test Case Execution — "Working with Kits"
 *Endpoint:* `POST {{baseUrl}}/api/v1/kits/:id/products`
