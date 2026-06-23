@@ -1,5 +1,5 @@
 - [x] ### **Tables and Databases**
-    - [ ] Relational structures storing data in strict columns and rows
+    - [x] Relational structures storing data in strict columns and rows
     - [ ] Primary keys uniquely identifying records within a collection
 - [ ] ### **Your First SQL Statement**
     - [ ] Executing standard instructions to communicate with a database
