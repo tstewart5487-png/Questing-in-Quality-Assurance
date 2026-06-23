@@ -15,7 +15,7 @@
     - [x] Isolating precise subsets of data from massive table records
 - [x] ### **Logical Operators**
     - [x] Combining multiple conditions using essential AND and OR logic
-    - [ ] Negating a filtering condition by applying NOT syntax rules
+    - [x] Negating a filtering condition by applying NOT syntax rules
 - [ ] ### **The BETWEEN and IN operators**
     - [ ] Checking if values fall within an inclusive numerical range
     - [ ] Matching a database field against a specific list of options
