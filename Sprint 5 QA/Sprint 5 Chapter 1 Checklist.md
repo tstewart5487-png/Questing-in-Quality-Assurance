@@ -12,7 +12,7 @@
     - [x] Preventing data errors by enforcing column validation rules
 - [x] ### **The WHERE Clause**
     - [x] Filtering query results to meet a specific row condition
-    - [ ] Isolating precise subsets of data from massive table records
+    - [x] Isolating precise subsets of data from massive table records
 - [ ] ### **Logical Operators**
     - [ ] Combining multiple conditions using essential AND and OR logic
     - [ ] Negating a filtering condition by applying NOT syntax rules
