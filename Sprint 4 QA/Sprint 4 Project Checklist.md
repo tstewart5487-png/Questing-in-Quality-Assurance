@@ -26,7 +26,7 @@
 *Headers Required:* `Content-Type: application/xml`
 
 - [x] **TC-09:** Submit a valid XML delivery request matching the Shipping Price Calculations rules (`200 OK`)
-- [ ] **TC-10:** Send an XML request containing unclosed or malformed tags (`400 Bad Request`)
+- [x] **TC-10:** Send an XML request containing unclosed or malformed tags (`400 Bad Request`)
 - [ ] **TC-11:** Send an XML request missing mandatory elements from the Couriers documentation (`400 Bad Request`)
 
 ## 🐛 Phase 4: Defect Logging & Project Wrap-up
