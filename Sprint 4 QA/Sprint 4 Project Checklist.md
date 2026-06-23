@@ -30,7 +30,7 @@
 - [x] **TC-11:** Send an XML request missing mandatory elements from the Couriers documentation (`400 Bad Request`)
 
 ## 🐛 Phase 4: Defect Logging & Project Wrap-up
-- [ ] Double check Jira access settings to ensure domain uses `tripleten.com` instead of `tripleten-team.com`
+- [x] Double check Jira access settings to ensure domain uses `tripleten.com` instead of `tripleten-team.com`
 - [ ] Draft bug reports in Jira for all Postman response discrepancies 
 - [ ] Map Jira bug tracking ticket URLs back to the Google Sheets spreadsheet rows
 - [ ] Draft final high-level text Summary Report outlining the status of tested modules
