@@ -15,7 +15,7 @@
 - [x] **TC-03:** Add a product with multiple items of the same ID (Verifying unique array sizing)
 
 ### 🔴 Negative Flows
-- [ ] **TC-04:** Add 31 unique products to an existing kit (`400 Bad Request` boundary error)
+- [x] **TC-04:** Add 31 unique products to an existing kit (`400 Bad Request` boundary error)
 - [ ] **TC-05:** Add a non-existent product ID (`400 Bad Request`)
 - [ ] **TC-06:** Send request to a non-existent kit ID (`404 Not Found`)
 - [ ] **TC-07:** Submit request body missing structural layout / `productsList` wrapper (`400 Bad Request`)
