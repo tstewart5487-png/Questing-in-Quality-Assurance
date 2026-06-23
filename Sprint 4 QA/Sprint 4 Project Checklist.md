@@ -3,7 +3,7 @@
 ## 🏗️ Phase 1: Environment Setup & Prep
 - [x] Ping server address to confirm status: `https://tripleten-services.com`
 - [x] Set up a global environment variable in Postman called `baseUrl`
-- [ ] Open the API documentation (`/docs/`) and review required payload schemas
+- [x] Open the API documentation (`/docs/`) and review required payload schemas
 - [ ] Sync spreadsheet columns with standard QA template guidelines
 
 ## 🧪 Phase 2: Test Case Execution — "Working with Kits"
