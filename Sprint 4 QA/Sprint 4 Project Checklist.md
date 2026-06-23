@@ -27,7 +27,7 @@
 
 - [x] **TC-09:** Submit a valid XML delivery request matching the Shipping Price Calculations rules (`200 OK`)
 - [x] **TC-10:** Send an XML request containing unclosed or malformed tags (`400 Bad Request`)
-- [ ] **TC-11:** Send an XML request missing mandatory elements from the Couriers documentation (`400 Bad Request`)
+- [x] **TC-11:** Send an XML request missing mandatory elements from the Couriers documentation (`400 Bad Request`)
 
 ## 🐛 Phase 4: Defect Logging & Project Wrap-up
 - [ ] Double check Jira access settings to ensure domain uses `tripleten.com` instead of `tripleten-team.com`
