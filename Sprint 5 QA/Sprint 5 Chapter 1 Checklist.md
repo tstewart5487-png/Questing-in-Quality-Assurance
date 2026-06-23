@@ -14,7 +14,7 @@
     - [x] Filtering query results to meet a specific row condition
     - [x] Isolating precise subsets of data from massive table records
 - [x] ### **Logical Operators**
-    - [ ] Combining multiple conditions using essential AND and OR logic
+    - [x] Combining multiple conditions using essential AND and OR logic
     - [ ] Negating a filtering condition by applying NOT syntax rules
 - [ ] ### **The BETWEEN and IN operators**
     - [ ] Checking if values fall within an inclusive numerical range
