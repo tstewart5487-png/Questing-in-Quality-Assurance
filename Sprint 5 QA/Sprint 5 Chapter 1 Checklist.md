@@ -1,0 +1,21 @@
+- [ ] ### **Tables and Databases**
+    - [ ] Relational structures storing data in strict columns and rows
+    - [ ] Primary keys uniquely identifying records within a collection
+- [ ] ### **Your First SQL Statement**
+    - [ ] Executing standard instructions to communicate with a database
+    - [ ] Basic syntax rules required to request specific table contents
+- [ ] ### **Using SELECT to Retrieve Data**
+    - [ ] Fetching designated column data from a targeted table name
+    - [ ] Using the wildcard symbol to return all columns at once
+- [ ] ### **Data Types**
+    - [ ] Defining text, numeric, and date formats for stored values
+    - [ ] Preventing data errors by enforcing column validation rules
+- [ ] ### **The WHERE Clause**
+    - [ ] Filtering query results to meet a specific row condition
+    - [ ] Isolating precise subsets of data from massive table records
+- [ ] ### **Logical Operators**
+    - [ ] Combining multiple conditions using essential AND and OR logic
+    - [ ] Negating a filtering condition by applying NOT syntax rules
+- [ ] ### **The BETWEEN and IN operators**
+    - [ ] Checking if values fall within an inclusive numerical range
+    - [ ] Matching a database field against a specific list of options
