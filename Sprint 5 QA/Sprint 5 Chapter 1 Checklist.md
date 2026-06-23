@@ -7,7 +7,7 @@
 - [x] ### **Using SELECT to Retrieve Data**
     - [x] Fetching designated column data from a targeted table name
     - [x] Using the wildcard symbol to return all columns at once
-- [ ] ### **Data Types**
+- [x] ### **Data Types**
     - [ ] Defining text, numeric, and date formats for stored values
     - [ ] Preventing data errors by enforcing column validation rules
 - [ ] ### **The WHERE Clause**
