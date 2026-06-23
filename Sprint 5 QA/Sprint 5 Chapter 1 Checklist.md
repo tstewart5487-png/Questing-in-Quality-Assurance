@@ -3,7 +3,7 @@
     - [x] Primary keys uniquely identifying records within a collection
 - [x] ### **Your First SQL Statement**
     - [x] Executing standard instructions to communicate with a database
-    - [ ] Basic syntax rules required to request specific table contents
+    - [x] Basic syntax rules required to request specific table contents
 - [ ] ### **Using SELECT to Retrieve Data**
     - [ ] Fetching designated column data from a targeted table name
     - [ ] Using the wildcard symbol to return all columns at once
