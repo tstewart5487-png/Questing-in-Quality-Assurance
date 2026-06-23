@@ -32,6 +32,6 @@
 ## 🐛 Phase 4: Defect Logging & Project Wrap-up
 - [x] Double check Jira access settings to ensure domain uses `tripleten.com` instead of `tripleten-team.com`
 - [x] Draft bug reports in Jira for all Postman response discrepancies 
-- [ ] Map Jira bug tracking ticket URLs back to the Google Sheets spreadsheet rows
+- [x] Map Jira bug tracking ticket URLs back to the Google Sheets spreadsheet rows
 - [ ] Draft final high-level text Summary Report outlining the status of tested modules
 - [ ] Move into the project "Submission" tab and execute final delivery package push
