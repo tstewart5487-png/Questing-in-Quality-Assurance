@@ -9,7 +9,7 @@
     - [x] Using the wildcard symbol to return all columns at once
 - [x] ### **Data Types**
     - [x] Defining text, numeric, and date formats for stored values
-    - [ ] Preventing data errors by enforcing column validation rules
+    - [x] Preventing data errors by enforcing column validation rules
 - [ ] ### **The WHERE Clause**
     - [ ] Filtering query results to meet a specific row condition
     - [ ] Isolating precise subsets of data from massive table records
