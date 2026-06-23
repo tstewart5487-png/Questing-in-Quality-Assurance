@@ -5,7 +5,7 @@
     - [x] Executing standard instructions to communicate with a database
     - [x] Basic syntax rules required to request specific table contents
 - [x] ### **Using SELECT to Retrieve Data**
-    - [ ] Fetching designated column data from a targeted table name
+    - [x] Fetching designated column data from a targeted table name
     - [ ] Using the wildcard symbol to return all columns at once
 - [ ] ### **Data Types**
     - [ ] Defining text, numeric, and date formats for stored values
