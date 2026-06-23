@@ -19,7 +19,7 @@
 - [x] **TC-05:** Add a non-existent product ID (`400 Bad Request`)
 - [x] **TC-06:** Send request to a non-existent kit ID (`404 Not Found`)
 - [x] **TC-07:** Submit request body missing structural layout / `productsList` wrapper (`400 Bad Request`)
-- [ ] **TC-08:** Pass invalid data types like strings instead of integer IDs (`400 Bad Request`)
+- [x] **TC-08:** Pass invalid data types like strings instead of integer IDs (`400 Bad Request`)
 
 ## 🚚 Phase 3: Test Case Execution — "Working with Deliveries"
 *Endpoint:* `POST {{baseUrl}}/fast-delivery/v3.1.1/calculate-delivery.xml`
