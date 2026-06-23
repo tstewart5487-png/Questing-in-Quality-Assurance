@@ -1,4 +1,4 @@
-- [ ] ### **Tables and Databases**
+- [x] ### **Tables and Databases**
     - [ ] Relational structures storing data in strict columns and rows
     - [ ] Primary keys uniquely identifying records within a collection
 - [ ] ### **Your First SQL Statement**
