@@ -13,7 +13,7 @@
 - [x] ### **The WHERE Clause**
     - [x] Filtering query results to meet a specific row condition
     - [x] Isolating precise subsets of data from massive table records
-- [ ] ### **Logical Operators**
+- [x] ### **Logical Operators**
     - [ ] Combining multiple conditions using essential AND and OR logic
     - [ ] Negating a filtering condition by applying NOT syntax rules
 - [ ] ### **The BETWEEN and IN operators**
