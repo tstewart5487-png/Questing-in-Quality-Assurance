@@ -6,7 +6,7 @@
     - [x] Basic syntax rules required to request specific table contents
 - [x] ### **Using SELECT to Retrieve Data**
     - [x] Fetching designated column data from a targeted table name
-    - [ ] Using the wildcard symbol to return all columns at once
+    - [x] Using the wildcard symbol to return all columns at once
 - [ ] ### **Data Types**
     - [ ] Defining text, numeric, and date formats for stored values
     - [ ] Preventing data errors by enforcing column validation rules
