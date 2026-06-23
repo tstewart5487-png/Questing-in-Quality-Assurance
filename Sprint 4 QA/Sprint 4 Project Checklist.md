@@ -12,7 +12,7 @@
 ### 🟢 Positive Flows
 - [x] **TC-01:** Add 1 valid product ID to an existing kit (`200 OK` / `201 Created`)
 - [x] **TC-02:** Add exactly 30 unique product IDs to an existing kit (Upper boundary limit)
-- [ ] **TC-03:** Add a product with multiple items of the same ID (Verifying unique array sizing)
+- [x] **TC-03:** Add a product with multiple items of the same ID (Verifying unique array sizing)
 
 ### 🔴 Negative Flows
 - [ ] **TC-04:** Add 31 unique products to an existing kit (`400 Bad Request` boundary error)
