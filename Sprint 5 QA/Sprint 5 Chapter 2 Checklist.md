@@ -1,6 +1,6 @@
 ### 📊 Module 02: Aggregate Functions Checklist
 
-- [ ] **The COUNT Function**
+- [x] **The COUNT Function**
     - [ ] Count total number of rows/records
     - [ ] Count non-null values in a specific column
 - [ ] **Using COUNT with a Condition**
