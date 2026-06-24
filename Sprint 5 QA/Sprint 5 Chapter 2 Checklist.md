@@ -18,6 +18,6 @@
 - [x] **The MIN and MAX functions**
     - [x] Find the lowest value in a dataset column
     - [x] Identify the highest value in a dataset column
-- [ ] **Calculations with MIN and MAX**
+- [x] **Calculations with MIN and MAX**
     - [ ] Compute the variance/range between max and min values
     - [ ] Embed MIN and MAX inside math expressions
