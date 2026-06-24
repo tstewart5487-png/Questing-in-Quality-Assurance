@@ -12,7 +12,7 @@
 - [x] **The AVG function**
     - [x] Calculate the arithmetic mean of numeric columns
     - [x] Understand how nulls are ignored in averages
-- [ ] **Converting Data Types**
+- [x] **Converting Data Types**
     - [ ] Use CAST keyword to convert text to numeric formats
     - [ ] Apply the shorthand double-colon (::) typecasting syntax
 - [ ] **The MIN and MAX functions**
