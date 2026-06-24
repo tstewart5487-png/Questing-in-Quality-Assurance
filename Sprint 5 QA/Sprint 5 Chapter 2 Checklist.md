@@ -20,4 +20,4 @@
     - [x] Identify the highest value in a dataset column
 - [x] **Calculations with MIN and MAX**
     - [x] Compute the variance/range between max and min values
-    - [ ] Embed MIN and MAX inside math expressions
+    - [x] Embed MIN and MAX inside math expressions
