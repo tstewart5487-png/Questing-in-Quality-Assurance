@@ -1,7 +1,7 @@
 ### 📊 Module 02: Aggregate Functions Checklist
 
 - [x] **The COUNT Function**
-    - [ ] Count total number of rows/records
+    - [x] Count total number of rows/records
     - [ ] Count non-null values in a specific column
 - [ ] **Using COUNT with a Condition**
     - [ ] Combine COUNT with a WHERE clause
