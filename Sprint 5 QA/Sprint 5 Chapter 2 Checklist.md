@@ -1,0 +1,23 @@
+### 📊 Module 02: Aggregate Functions Checklist
+
+- [ ] **The COUNT Function**
+    - [ ] Count total number of rows/records
+    - [ ] Count non-null values in a specific column
+- [ ] **Using COUNT with a Condition**
+    - [ ] Combine COUNT with a WHERE clause
+    - [ ] Filter rows before performing the count
+- [ ] **The SUM Function**
+    - [ ] Calculate the total addition of numeric column values
+    - [ ] Handle null values during summation fields
+- [ ] **The AVG function**
+    - [ ] Calculate the arithmetic mean of numeric columns
+    - [ ] Understand how nulls are ignored in averages
+- [ ] **Converting Data Types**
+    - [ ] Use CAST keyword to convert text to numeric formats
+    - [ ] Apply the shorthand double-colon (::) typecasting syntax
+- [ ] **The MIN and MAX functions**
+    - [ ] Find the lowest value in a dataset column
+    - [ ] Identify the highest value in a dataset column
+- [ ] **Calculations with MIN and MAX**
+    - [ ] Compute the variance/range between max and min values
+    - [ ] Embed MIN and MAX inside math expressions
