@@ -3,7 +3,7 @@
 - [x] **The COUNT Function**
     - [x] Count total number of rows/records
     - [x] Count non-null values in a specific column
-- [ ] **Using COUNT with a Condition**
+- [x] **Using COUNT with a Condition**
     - [ ] Combine COUNT with a WHERE clause
     - [ ] Filter rows before performing the count
 - [ ] **The SUM Function**
