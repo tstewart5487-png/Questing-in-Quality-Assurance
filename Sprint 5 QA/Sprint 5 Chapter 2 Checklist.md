@@ -4,7 +4,7 @@
     - [x] Count total number of rows/records
     - [x] Count non-null values in a specific column
 - [x] **Using COUNT with a Condition**
-    - [ ] Combine COUNT with a WHERE clause
+    - [x] Combine COUNT with a WHERE clause
     - [ ] Filter rows before performing the count
 - [ ] **The SUM Function**
     - [ ] Calculate the total addition of numeric column values
