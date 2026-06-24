@@ -1,21 +1,21 @@
-- [ ] ### **Tables and Databases**
-    - [ ] Relational structures storing data in strict columns and rows
-    - [ ] Primary keys uniquely identifying records within a collection
-- [ ] ### **Your First SQL Statement**
-    - [ ] Executing standard instructions to communicate with a database
-    - [ ] Basic syntax rules required to request specific table contents
-- [ ] ### **Using SELECT to Retrieve Data**
-    - [ ] Fetching designated column data from a targeted table name
-    - [ ] Using the wildcard symbol to return all columns at once
-- [ ] ### **Data Types**
-    - [ ] Defining text, numeric, and date formats for stored values
-    - [ ] Preventing data errors by enforcing column validation rules
-- [ ] ### **The WHERE Clause**
-    - [ ] Filtering query results to meet a specific row condition
-    - [ ] Isolating precise subsets of data from massive table records
-- [ ] ### **Logical Operators**
-    - [ ] Combining multiple conditions using essential AND and OR logic
-    - [ ] Negating a filtering condition by applying NOT syntax rules
-- [ ] ### **The BETWEEN and IN operators**
-    - [ ] Checking if values fall within an inclusive numerical range
-    - [ ] Matching a database field against a specific list of options
+- [x] ### **Tables and Databases**
+    - [x] Relational structures storing data in strict columns and rows
+    - [x] Primary keys uniquely identifying records within a collection
+- [x] ### **Your First SQL Statement**
+    - [x] Executing standard instructions to communicate with a database
+    - [x] Basic syntax rules required to request specific table contents
+- [x] ### **Using SELECT to Retrieve Data**
+    - [x] Fetching designated column data from a targeted table name
+    - [x] Using the wildcard symbol to return all columns at once
+- [x] ### **Data Types**
+    - [x] Defining text, numeric, and date formats for stored values
+    - [x] Preventing data errors by enforcing column validation rules
+- [x] ### **The WHERE Clause**
+    - [x] Filtering query results to meet a specific row condition
+    - [x] Isolating precise subsets of data from massive table records
+- [x] ### **Logical Operators**
+    - [x] Combining multiple conditions using essential AND and OR logic
+    - [x] Negating a filtering condition by applying NOT syntax rules
+- [x] ### **The BETWEEN and IN operators**
+    - [x] Checking if values fall within an inclusive numerical range
+    - [x] Matching a database field against a specific list of options
