@@ -11,7 +11,7 @@
     - [x] Handle null values during summation fields
 - [x] **The AVG function**
     - [x] Calculate the arithmetic mean of numeric columns
-    - [ ] Understand how nulls are ignored in averages
+    - [x] Understand how nulls are ignored in averages
 - [ ] **Converting Data Types**
     - [ ] Use CAST keyword to convert text to numeric formats
     - [ ] Apply the shorthand double-colon (::) typecasting syntax
