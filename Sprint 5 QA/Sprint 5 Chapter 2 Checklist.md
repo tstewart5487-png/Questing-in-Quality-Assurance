@@ -9,7 +9,7 @@
 - [x] **The SUM Function**
     - [x] Calculate the total addition of numeric column values
     - [x] Handle null values during summation fields
-- [ ] **The AVG function**
+- [x] **The AVG function**
     - [ ] Calculate the arithmetic mean of numeric columns
     - [ ] Understand how nulls are ignored in averages
 - [ ] **Converting Data Types**
