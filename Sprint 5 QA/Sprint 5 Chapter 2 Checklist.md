@@ -7,7 +7,7 @@
     - [x] Combine COUNT with a WHERE clause
     - [x] Filter rows before performing the count
 - [x] **The SUM Function**
-    - [ ] Calculate the total addition of numeric column values
+    - [x] Calculate the total addition of numeric column values
     - [ ] Handle null values during summation fields
 - [ ] **The AVG function**
     - [ ] Calculate the arithmetic mean of numeric columns
