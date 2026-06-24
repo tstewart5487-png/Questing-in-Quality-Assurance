@@ -15,7 +15,7 @@
 - [x] **Converting Data Types**
     - [x] Use CAST keyword to convert text to numeric formats
     - [x] Apply the shorthand double-colon (::) typecasting syntax
-- [ ] **The MIN and MAX functions**
+- [x] **The MIN and MAX functions**
     - [ ] Find the lowest value in a dataset column
     - [ ] Identify the highest value in a dataset column
 - [ ] **Calculations with MIN and MAX**
