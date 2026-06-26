@@ -2,7 +2,7 @@
     - [x] Combines identical row data into single summary rows.
     - [x] Requires 30 minutes to complete 2 tasks.
 
-- [ ] **More GROUP BY**
+- [x] **More GROUP BY**
     - [ ] Explores advanced multi-column row grouping techniques.
     - [ ] Requires 25 minutes to complete 2 tasks.
 
