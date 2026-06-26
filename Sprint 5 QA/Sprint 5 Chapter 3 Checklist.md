@@ -32,7 +32,7 @@
 
 - [x] **Searching for Data in a Table: LIKE**
     - [x] Finds specific text strings using wildcard characters.
-    - [ ] Requires 20 minutes to complete 1 task.
+    - [x] Requires 20 minutes to complete 1 task.
 
 - [ ] **Processing Data Within a Grouping: HAVING**
     - [ ] Filters summarized groups after aggregation occurs.
