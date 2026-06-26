@@ -3,7 +3,7 @@
     - [x] Requires 30 minutes to complete 2 tasks.
 
 - [x] **More GROUP BY**
-    - [ ] Explores advanced multi-column row grouping techniques.
+    - [x] Explores advanced multi-column row grouping techniques.
     - [ ] Requires 25 minutes to complete 2 tasks.
 
 - [ ] **GROUP BY and Aggregate Functions**
