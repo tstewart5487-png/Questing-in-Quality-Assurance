@@ -20,7 +20,7 @@
 
 - [x] **Limiting Results: LIMIT**
     - [x] Restricts the maximum number of returned rows.
-    - [ ] Requires 15 minutes to complete 1 task.
+    - [x] Requires 15 minutes to complete 1 task.
 
 - [ ] **Searching for Empty Values: IS NULL**
     - [ ] Locates missing data fields within a dataset.
