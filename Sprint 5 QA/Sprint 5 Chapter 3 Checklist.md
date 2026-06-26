@@ -8,7 +8,7 @@
 
 - [x] **GROUP BY and Aggregate Functions**
     - [x] Uses mathematical functions like SUM and COUNT.
-    - [ ] Requires 15 minutes to complete 1 task.
+    - [x] Requires 15 minutes to complete 1 task.
 
 - [ ] **Using GROUP BY with a Condition**
     - [ ] Filters raw table rows before grouping data.
