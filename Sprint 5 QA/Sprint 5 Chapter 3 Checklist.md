@@ -15,7 +15,7 @@
     - [x] Requires 15 minutes to complete 1 task.
 
 - [x] **Sorting Data: ORDER BY**
-    - [ ] Arranges final output alphabetically or numerically.
+    - [x] Arranges final output alphabetically or numerically.
     - [ ] Requires 30 minutes to complete 2 tasks.
 
 - [ ] **Limiting Results: LIMIT**
