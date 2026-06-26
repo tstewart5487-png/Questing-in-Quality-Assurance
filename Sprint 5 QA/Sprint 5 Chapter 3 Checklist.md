@@ -38,6 +38,6 @@
     - [x] Filters summarized groups after aggregation occurs.
     - [x] Requires 40 minutes to complete 3 tasks.
 
-- [ ] **Using HAVING with Multiple Conditions**
+- [x] **Using HAVING with Multiple Conditions**
     - [ ] Applies complex multiple filters to grouped data.
     - [ ] Requires 30 minutes to complete 2 tasks.
