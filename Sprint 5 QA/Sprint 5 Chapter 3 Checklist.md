@@ -14,7 +14,7 @@
     - [x] Filters raw table rows before grouping data.
     - [x] Requires 15 minutes to complete 1 task.
 
-- [ ] **Sorting Data: ORDER BY**
+- [x] **Sorting Data: ORDER BY**
     - [ ] Arranges final output alphabetically or numerically.
     - [ ] Requires 30 minutes to complete 2 tasks.
 
