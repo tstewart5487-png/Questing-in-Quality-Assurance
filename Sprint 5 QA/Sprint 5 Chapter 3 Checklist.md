@@ -30,7 +30,7 @@
     - [x] Swaps out missing values using conditional logic.
     - [x] Requires 20 minutes to complete 1 task.
 
-- [ ] **Searching for Data in a Table: LIKE**
+- [x] **Searching for Data in a Table: LIKE**
     - [ ] Finds specific text strings using wildcard characters.
     - [ ] Requires 20 minutes to complete 1 task.
 
