@@ -23,7 +23,7 @@
     - [x] Requires 15 minutes to complete 1 task.
 
 - [x] **Searching for Empty Values: IS NULL**
-    - [ ] Locates missing data fields within a dataset.
+    - [x] Locates missing data fields within a dataset.
     - [ ] Requires 25 minutes to complete 2 tasks.
 
 - [ ] **Replacing Empty Values: CASE**
