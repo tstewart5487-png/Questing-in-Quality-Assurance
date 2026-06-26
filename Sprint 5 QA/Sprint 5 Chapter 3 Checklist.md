@@ -26,7 +26,7 @@
     - [x] Locates missing data fields within a dataset.
     - [x] Requires 25 minutes to complete 2 tasks.
 
-- [ ] **Replacing Empty Values: CASE**
+- [x] **Replacing Empty Values: CASE**
     - [ ] Swaps out missing values using conditional logic.
     - [ ] Requires 20 minutes to complete 1 task.
 
