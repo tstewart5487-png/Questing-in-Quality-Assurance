@@ -10,7 +10,7 @@
     - [x] Uses mathematical functions like SUM and COUNT.
     - [x] Requires 15 minutes to complete 1 task.
 
-- [ ] **Using GROUP BY with a Condition**
+- [x] **Using GROUP BY with a Condition**
     - [ ] Filters raw table rows before grouping data.
     - [ ] Requires 15 minutes to complete 1 task.
 
