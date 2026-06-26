@@ -24,7 +24,7 @@
 
 - [x] **Searching for Empty Values: IS NULL**
     - [x] Locates missing data fields within a dataset.
-    - [ ] Requires 25 minutes to complete 2 tasks.
+    - [x] Requires 25 minutes to complete 2 tasks.
 
 - [ ] **Replacing Empty Values: CASE**
     - [ ] Swaps out missing values using conditional logic.
