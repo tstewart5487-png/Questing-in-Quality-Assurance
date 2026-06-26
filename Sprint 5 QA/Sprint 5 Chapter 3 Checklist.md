@@ -19,7 +19,7 @@
     - [x] Requires 30 minutes to complete 2 tasks.
 
 - [x] **Limiting Results: LIMIT**
-    - [ ] Restricts the maximum number of returned rows.
+    - [x] Restricts the maximum number of returned rows.
     - [ ] Requires 15 minutes to complete 1 task.
 
 - [ ] **Searching for Empty Values: IS NULL**
