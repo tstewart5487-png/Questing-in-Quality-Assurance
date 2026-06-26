@@ -1,6 +1,6 @@
 - [x] **Grouping Data: GROUP BY**
     - [x] Combines identical row data into single summary rows.
-    - [ ] Requires 30 minutes to complete 2 tasks.
+    - [x] Requires 30 minutes to complete 2 tasks.
 
 - [ ] **More GROUP BY**
     - [ ] Explores advanced multi-column row grouping techniques.
