@@ -11,7 +11,7 @@
     - [x] Requires 15 minutes to complete 1 task.
 
 - [x] **Using GROUP BY with a Condition**
-    - [ ] Filters raw table rows before grouping data.
+    - [x] Filters raw table rows before grouping data.
     - [ ] Requires 15 minutes to complete 1 task.
 
 - [ ] **Sorting Data: ORDER BY**
