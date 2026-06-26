@@ -16,7 +16,7 @@
 
 - [x] **Sorting Data: ORDER BY**
     - [x] Arranges final output alphabetically or numerically.
-    - [ ] Requires 30 minutes to complete 2 tasks.
+    - [x] Requires 30 minutes to complete 2 tasks.
 
 - [ ] **Limiting Results: LIMIT**
     - [ ] Restricts the maximum number of returned rows.
