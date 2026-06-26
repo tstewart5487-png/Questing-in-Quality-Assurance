@@ -34,7 +34,7 @@
     - [x] Finds specific text strings using wildcard characters.
     - [x] Requires 20 minutes to complete 1 task.
 
-- [ ] **Processing Data Within a Grouping: HAVING**
+- [x] **Processing Data Within a Grouping: HAVING**
     - [ ] Filters summarized groups after aggregation occurs.
     - [ ] Requires 40 minutes to complete 3 tasks.
 
