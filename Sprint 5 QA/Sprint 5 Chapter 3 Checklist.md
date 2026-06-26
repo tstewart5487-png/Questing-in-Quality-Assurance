@@ -1,4 +1,4 @@
-- [ ] **Grouping Data: GROUP BY**
+- [x] **Grouping Data: GROUP BY**
     - [ ] Combines identical row data into single summary rows.
     - [ ] Requires 30 minutes to complete 2 tasks.
 
