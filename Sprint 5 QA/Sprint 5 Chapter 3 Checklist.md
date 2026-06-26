@@ -4,7 +4,7 @@
 
 - [x] **More GROUP BY**
     - [x] Explores advanced multi-column row grouping techniques.
-    - [ ] Requires 25 minutes to complete 2 tasks.
+    - [x] Requires 25 minutes to complete 2 tasks.
 
 - [ ] **GROUP BY and Aggregate Functions**
     - [ ] Uses mathematical functions like SUM and COUNT.
