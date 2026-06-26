@@ -36,7 +36,7 @@
 
 - [x] **Processing Data Within a Grouping: HAVING**
     - [x] Filters summarized groups after aggregation occurs.
-    - [ ] Requires 40 minutes to complete 3 tasks.
+    - [x] Requires 40 minutes to complete 3 tasks.
 
 - [ ] **Using HAVING with Multiple Conditions**
     - [ ] Applies complex multiple filters to grouped data.
