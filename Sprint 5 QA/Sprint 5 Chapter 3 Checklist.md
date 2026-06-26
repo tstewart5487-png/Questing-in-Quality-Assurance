@@ -39,5 +39,5 @@
     - [x] Requires 40 minutes to complete 3 tasks.
 
 - [x] **Using HAVING with Multiple Conditions**
-    - [ ] Applies complex multiple filters to grouped data.
+    - [x] Applies complex multiple filters to grouped data.
     - [ ] Requires 30 minutes to complete 2 tasks.
