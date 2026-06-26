@@ -28,7 +28,7 @@
 
 - [x] **Replacing Empty Values: CASE**
     - [x] Swaps out missing values using conditional logic.
-    - [ ] Requires 20 minutes to complete 1 task.
+    - [x] Requires 20 minutes to complete 1 task.
 
 - [ ] **Searching for Data in a Table: LIKE**
     - [ ] Finds specific text strings using wildcard characters.
