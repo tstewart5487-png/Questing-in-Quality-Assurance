@@ -18,7 +18,7 @@
     - [x] Arranges final output alphabetically or numerically.
     - [x] Requires 30 minutes to complete 2 tasks.
 
-- [ ] **Limiting Results: LIMIT**
+- [x] **Limiting Results: LIMIT**
     - [ ] Restricts the maximum number of returned rows.
     - [ ] Requires 15 minutes to complete 1 task.
 
