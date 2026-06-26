@@ -27,7 +27,7 @@
     - [x] Requires 25 minutes to complete 2 tasks.
 
 - [x] **Replacing Empty Values: CASE**
-    - [ ] Swaps out missing values using conditional logic.
+    - [x] Swaps out missing values using conditional logic.
     - [ ] Requires 20 minutes to complete 1 task.
 
 - [ ] **Searching for Data in a Table: LIKE**
