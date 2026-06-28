@@ -1,43 +1,43 @@
-- [ ] **Grouping Data: GROUP BY**
-    - [ ] Combines identical row data into single summary rows.
-    - [ ] Requires 30 minutes to complete 2 tasks.
+- [x] **Grouping Data: GROUP BY**
+    - [x] Combines identical row data into single summary rows.
+    - [x] Requires 30 minutes to complete 2 tasks.
 
-- [ ] **More GROUP BY**
-    - [ ] Explores advanced multi-column row grouping techniques.
-    - [ ] Requires 25 minutes to complete 2 tasks.
+- [x] **More GROUP BY**
+    - [x] Explores advanced multi-column row grouping techniques.
+    - [x] Requires 25 minutes to complete 2 tasks.
 
-- [ ] **GROUP BY and Aggregate Functions**
-    - [ ] Uses mathematical functions like SUM and COUNT.
-    - [ ] Requires 15 minutes to complete 1 task.
+- [x] **GROUP BY and Aggregate Functions**
+    - [x] Uses mathematical functions like SUM and COUNT.
+    - [x] Requires 15 minutes to complete 1 task.
 
-- [ ] **Using GROUP BY with a Condition**
-    - [ ] Filters raw table rows before grouping data.
-    - [ ] Requires 15 minutes to complete 1 task.
+- [x] **Using GROUP BY with a Condition**
+    - [x] Filters raw table rows before grouping data.
+    - [x] Requires 15 minutes to complete 1 task.
 
-- [ ] **Sorting Data: ORDER BY**
-    - [ ] Arranges final output alphabetically or numerically.
-    - [ ] Requires 30 minutes to complete 2 tasks.
+- [x] **Sorting Data: ORDER BY**
+    - [x] Arranges final output alphabetically or numerically.
+    - [x] Requires 30 minutes to complete 2 tasks.
 
-- [ ] **Limiting Results: LIMIT**
-    - [ ] Restricts the maximum number of returned rows.
-    - [ ] Requires 15 minutes to complete 1 task.
+- [x] **Limiting Results: LIMIT**
+    - [x] Restricts the maximum number of returned rows.
+    - [x] Requires 15 minutes to complete 1 task.
 
-- [ ] **Searching for Empty Values: IS NULL**
-    - [ ] Locates missing data fields within a dataset.
-    - [ ] Requires 25 minutes to complete 2 tasks.
+- [x] **Searching for Empty Values: IS NULL**
+    - [x] Locates missing data fields within a dataset.
+    - [x] Requires 25 minutes to complete 2 tasks.
 
-- [ ] **Replacing Empty Values: CASE**
-    - [ ] Swaps out missing values using conditional logic.
-    - [ ] Requires 20 minutes to complete 1 task.
+- [x] **Replacing Empty Values: CASE**
+    - [x] Swaps out missing values using conditional logic.
+    - [x] Requires 20 minutes to complete 1 task.
 
-- [ ] **Searching for Data in a Table: LIKE**
-    - [ ] Finds specific text strings using wildcard characters.
-    - [ ] Requires 20 minutes to complete 1 task.
+- [x] **Searching for Data in a Table: LIKE**
+    - [x] Finds specific text strings using wildcard characters.
+    - [x] Requires 20 minutes to complete 1 task.
 
-- [ ] **Processing Data Within a Grouping: HAVING**
-    - [ ] Filters summarized groups after aggregation occurs.
-    - [ ] Requires 40 minutes to complete 3 tasks.
+- [x] **Processing Data Within a Grouping: HAVING**
+    - [x] Filters summarized groups after aggregation occurs.
+    - [x] Requires 40 minutes to complete 3 tasks.
 
-- [ ] **Using HAVING with Multiple Conditions**
-    - [ ] Applies complex multiple filters to grouped data.
-    - [ ] Requires 30 minutes to complete 2 tasks.
+- [x] **Using HAVING with Multiple Conditions**
+    - [x] Applies complex multiple filters to grouped data.
+    - [x] Requires 30 minutes to complete 2 tasks.
