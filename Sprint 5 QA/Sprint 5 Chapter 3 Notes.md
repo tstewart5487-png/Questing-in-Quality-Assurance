@@ -228,6 +228,12 @@ WHERE
     name NOT LIKE '%Vampire%';
 ```
 
+> ⚠️ **Case sensitivity:** `LIKE` behavior depends on the database system. In **PostgreSQL** it is case-sensitive by default — `'%vampire%'` will NOT match "Vampire". In **MySQL** it is case-insensitive by default. To do a case-insensitive search in PostgreSQL, use `ILIKE` instead:
+> ```sql
+> WHERE name ILIKE '%vampire%';
+> ```
+> This will match "Vampire", "VAMPIRE", "vampire", and any other variation.
+
 ---
 
 ## HAVING
