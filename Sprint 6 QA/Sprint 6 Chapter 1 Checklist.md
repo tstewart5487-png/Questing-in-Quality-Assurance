@@ -6,4 +6,4 @@
 - [x] **Recap: Mobile Device Parameters** (Theory - 15 min)
 - [x] **Device Matrices** (Theory - 10 min)
 - [x] **Emulators** (Theory - 5 min)
-- [ ] **Conclusion** (Theory - 5 min)
+- [x] **Conclusion** (Theory - 5 min)
