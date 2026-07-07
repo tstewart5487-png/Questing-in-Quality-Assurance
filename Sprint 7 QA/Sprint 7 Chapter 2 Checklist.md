@@ -4,7 +4,7 @@
     - [x] Practice: Identify mutable vs immutable types
     - [x] Review: Take notes on basic definitions
 - [x] **Lists** (Theory · 1 hr 15 min)
-    - [ ] Practice: Try list methods like append(), extend(), and pop()
+    - [x] Practice: Try list methods like append(), extend(), and pop()
     - [ ] Review: Understand indexing and negative slicing
 - [ ] **Tuples** (Theory · 35 min)
     - [ ] Practice: Create single-item tuples and unpack values
