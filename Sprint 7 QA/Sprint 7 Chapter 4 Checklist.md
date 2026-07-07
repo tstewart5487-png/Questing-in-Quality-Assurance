@@ -16,7 +16,7 @@
     - [x] Master the `return` keyword.
     - [x] Output results back to main programs.
     - [x] Differentiate between return and print.
-- [ ] **Testing Functions: The Assert Keyword** (Theory · 20 min)
+- [x] **Testing Functions: The Assert Keyword** (Theory · 20 min)
     - [ ] Use `assert` for debugging sanity checks.
     - [ ] Test assumptions within code.
     - [ ] Handle intentional failure conditions.
