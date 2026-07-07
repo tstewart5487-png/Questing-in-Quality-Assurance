@@ -1,22 +1,22 @@
 ### 📋 Module 04 Study Checklist
 
-- [ ] **Functions** (Theory · 5 min)
-    - [ ] Understand what functions are.
-    - [ ] Learn why they are used.
-    - [ ] Write clean, reusable code.
-- [ ] **Using Built-in Python Functions** (Theory · 30 min)
-    - [ ] Learn how to call functions.
-    - [ ] Use global standard functions.
-    - [ ] Practice `len()`, `max()`, and `min()`.
-- [ ] **Parameters and Arguments** (Theory · 55 min)
-    - [ ] Pass external data into functions.
-    - [ ] Understand the difference between parameters and arguments.
-    - [ ] Use variables and values effectively.
-- [ ] **Returning Values** (Theory · 45 min)
-    - [ ] Master the `return` keyword.
-    - [ ] Output results back to main programs.
-    - [ ] Differentiate between return and print.
-- [ ] **Testing Functions: The Assert Keyword** (Theory · 20 min)
-    - [ ] Use `assert` for debugging sanity checks.
-    - [ ] Test assumptions within code.
-    - [ ] Handle intentional failure conditions.
+- [x] **Functions** (Theory · 5 min)
+    - [x] Understand what functions are.
+    - [x] Learn why they are used.
+    - [x] Write clean, reusable code.
+- [x] **Using Built-in Python Functions** (Theory · 30 min)
+    - [x] Learn how to call functions.
+    - [x] Use global standard functions.
+    - [x] Practice `len()`, `max()`, and `min()`.
+- [x] **Parameters and Arguments** (Theory · 55 min)
+    - [x] Pass external data into functions.
+    - [x] Understand the difference between parameters and arguments.
+    - [x] Use variables and values effectively.
+- [x] **Returning Values** (Theory · 45 min)
+    - [x] Master the `return` keyword.
+    - [x] Output results back to main programs.
+    - [x] Differentiate between return and print.
+- [x] **Testing Functions: The Assert Keyword** (Theory · 20 min)
+    - [x] Use `assert` for debugging sanity checks.
+    - [x] Test assumptions within code.
+    - [x] Handle intentional failure conditions.
