@@ -7,7 +7,7 @@
     - [x] Practice: Try list methods like append(), extend(), and pop()
     - [x] Review: Understand indexing and negative slicing
 - [x] **Tuples** (Theory · 35 min)
-    - [ ] Practice: Create single-item tuples and unpack values
+    - [x] Practice: Create single-item tuples and unpack values
     - [ ] Review: Learn why tuples use less memory than lists
 - [ ] **Sets** (Theory · 30 min)
     - [ ] Practice: Use union(), intersection(), and difference()
