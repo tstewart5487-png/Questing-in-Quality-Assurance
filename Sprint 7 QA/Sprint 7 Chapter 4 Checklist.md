@@ -17,6 +17,6 @@
     - [x] Output results back to main programs.
     - [x] Differentiate between return and print.
 - [x] **Testing Functions: The Assert Keyword** (Theory · 20 min)
-    - [ ] Use `assert` for debugging sanity checks.
+    - [x] Use `assert` for debugging sanity checks.
     - [ ] Test assumptions within code.
     - [ ] Handle intentional failure conditions.
