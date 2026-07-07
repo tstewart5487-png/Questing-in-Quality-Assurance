@@ -15,7 +15,7 @@
 - [x] **Returning Values** (Theory · 45 min)
     - [x] Master the `return` keyword.
     - [x] Output results back to main programs.
-    - [ ] Differentiate between return and print.
+    - [x] Differentiate between return and print.
 - [ ] **Testing Functions: The Assert Keyword** (Theory · 20 min)
     - [ ] Use `assert` for debugging sanity checks.
     - [ ] Test assumptions within code.
