@@ -1,7 +1,7 @@
 ### 📋 Module 04 Study Checklist
 
 - [x] **Functions** (Theory · 5 min)
-    - [ ] Understand what functions are.
+    - [x] Understand what functions are.
     - [ ] Learn why they are used.
     - [ ] Write clean, reusable code.
 - [ ] **Using Built-in Python Functions** (Theory · 30 min)
