@@ -9,7 +9,7 @@
     - [x] Use global standard functions.
     - [x] Practice `len()`, `max()`, and `min()`.
 - [x] **Parameters and Arguments** (Theory · 55 min)
-    - [ ] Pass external data into functions.
+    - [x] Pass external data into functions.
     - [ ] Understand the difference between parameters and arguments.
     - [ ] Use variables and values effectively.
 - [ ] **Returning Values** (Theory · 45 min)
