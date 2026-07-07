@@ -12,7 +12,7 @@
 - [x] **Sets** (Theory · 30 min)
     - [x] Practice: Use union(), intersection(), and difference()
     - [x] Review: Note why duplicate items are automatically removed
-- [ ] **Dictionaries: Part 1** (Theory · 1 hr)
+- [x] **Dictionaries: Part 1** (Theory · 1 hr)
     - [ ] Practice: Build key-value pairs and use get() to avoid errors
     - [ ] Review: Memorize how keys must be hashable/immutable
 - [ ] **Dictionaries: Part 2** (Theory · 40 min)
