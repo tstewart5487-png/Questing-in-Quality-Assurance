@@ -19,4 +19,4 @@
 - [x] **Testing Functions: The Assert Keyword** (Theory · 20 min)
     - [x] Use `assert` for debugging sanity checks.
     - [x] Test assumptions within code.
-    - [ ] Handle intentional failure conditions.
+    - [x] Handle intentional failure conditions.
