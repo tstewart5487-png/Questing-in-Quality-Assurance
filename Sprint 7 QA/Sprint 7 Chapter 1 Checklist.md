@@ -6,7 +6,7 @@
 - [x] Hello, World! — Theory, 50 min
 - [x] Variables — Theory, 1 hr
 - [x] Changing the Value of Variables — Theory, 30 min
-- [ ] Constants — Theory, 10 min
+- [x] Constants — Theory, 10 min
 - [ ] Data Types — Theory, 15 min
 - [ ] Converting Data Types — Theory, 15 min
 - [ ] f-string — Theory, 45 min
