@@ -13,7 +13,7 @@
     - [x] Understand the difference between parameters and arguments.
     - [x] Use variables and values effectively.
 - [x] **Returning Values** (Theory · 45 min)
-    - [ ] Master the `return` keyword.
+    - [x] Master the `return` keyword.
     - [ ] Output results back to main programs.
     - [ ] Differentiate between return and print.
 - [ ] **Testing Functions: The Assert Keyword** (Theory · 20 min)
