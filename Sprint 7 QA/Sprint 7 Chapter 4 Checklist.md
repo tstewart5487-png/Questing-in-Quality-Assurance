@@ -1,0 +1,22 @@
+### 📋 Module 04 Study Checklist
+
+- [ ] **Functions** (Theory · 5 min)
+    - [ ] Understand what functions are.
+    - [ ] Learn why they are used.
+    - [ ] Write clean, reusable code.
+- [ ] **Using Built-in Python Functions** (Theory · 30 min)
+    - [ ] Learn how to call functions.
+    - [ ] Use global standard functions.
+    - [ ] Practice `len()`, `max()`, and `min()`.
+- [ ] **Parameters and Arguments** (Theory · 55 min)
+    - [ ] Pass external data into functions.
+    - [ ] Understand the difference between parameters and arguments.
+    - [ ] Use variables and values effectively.
+- [ ] **Returning Values** (Theory · 45 min)
+    - [ ] Master the `return` keyword.
+    - [ ] Output results back to main programs.
+    - [ ] Differentiate between return and print.
+- [ ] **Testing Functions: The Assert Keyword** (Theory · 20 min)
+    - [ ] Use `assert` for debugging sanity checks.
+    - [ ] Test assumptions within code.
+    - [ ] Handle intentional failure conditions.
