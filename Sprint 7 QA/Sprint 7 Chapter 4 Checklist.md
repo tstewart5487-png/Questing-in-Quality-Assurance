@@ -1,6 +1,6 @@
 ### 📋 Module 04 Study Checklist
 
-- [ ] **Functions** (Theory · 5 min)
+- [x] **Functions** (Theory · 5 min)
     - [ ] Understand what functions are.
     - [ ] Learn why they are used.
     - [ ] Write clean, reusable code.
