@@ -5,7 +5,7 @@
 - [x] Python for Automated Testing — Theory, 10 min
 - [x] Hello, World! — Theory, 50 min
 - [x] Variables — Theory, 1 hr
-- [ ] Changing the Value of Variables — Theory, 30 min
+- [x] Changing the Value of Variables — Theory, 30 min
 - [ ] Constants — Theory, 10 min
 - [ ] Data Types — Theory, 15 min
 - [ ] Converting Data Types — Theory, 15 min
