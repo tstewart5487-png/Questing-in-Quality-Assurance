@@ -15,6 +15,6 @@
 - [x] **Dictionaries: Part 1** (Theory · 1 hr)
     - [x] Practice: Build key-value pairs and use get() to avoid errors
     - [x] Review: Memorize how keys must be hashable/immutable
-- [ ] **Dictionaries: Part 2** (Theory · 40 min)
+- [x] **Dictionaries: Part 2** (Theory · 40 min)
     - [ ] Practice: Iterate loops using .items(), .keys(), and .values()
     - [ ] Review: Master nesting dictionaries inside lists
