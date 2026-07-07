@@ -2,15 +2,15 @@
 
 *9 lessons left*
 
-- [ ] Python for Automated Testing — Theory, 10 min
-- [ ] Hello, World! — Theory, 50 min
-- [ ] Variables — Theory, 1 hr
-- [ ] Changing the Value of Variables — Theory, 30 min
-- [ ] Constants — Theory, 10 min
-- [ ] Data Types — Theory, 15 min
-- [ ] Converting Data Types — Theory, 15 min
-- [ ] f-string — Theory, 45 min
-- [ ] Arithmetic Operators — Theory, 55 min
-- [ ] Assignment Operators — Theory, 20 min
-- [ ] Boolean Expressions — Theory, 25 min
-- [ ] Comparison Operators — Theory, 35 min
+- [x] Python for Automated Testing — Theory, 10 min
+- [x] Hello, World! — Theory, 50 min
+- [x] Variables — Theory, 1 hr
+- [x] Changing the Value of Variables — Theory, 30 min
+- [x] Constants — Theory, 10 min
+- [x] Data Types — Theory, 15 min
+- [x] Converting Data Types — Theory, 15 min
+- [x] f-string — Theory, 45 min
+- [x] Arithmetic Operators — Theory, 55 min
+- [x] Assignment Operators — Theory, 20 min
+- [x] Boolean Expressions — Theory, 25 min
+- [x] Comparison Operators — Theory, 35 min
