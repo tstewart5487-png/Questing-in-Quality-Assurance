@@ -17,4 +17,4 @@
     - [x] Review: Memorize how keys must be hashable/immutable
 - [x] **Dictionaries: Part 2** (Theory · 40 min)
     - [x] Practice: Iterate loops using .items(), .keys(), and .values()
-    - [ ] Review: Master nesting dictionaries inside lists
+    - [x] Review: Master nesting dictionaries inside lists
