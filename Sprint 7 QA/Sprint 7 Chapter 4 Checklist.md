@@ -11,7 +11,7 @@
 - [x] **Parameters and Arguments** (Theory · 55 min)
     - [x] Pass external data into functions.
     - [x] Understand the difference between parameters and arguments.
-    - [ ] Use variables and values effectively.
+    - [x] Use variables and values effectively.
 - [ ] **Returning Values** (Theory · 45 min)
     - [ ] Master the `return` keyword.
     - [ ] Output results back to main programs.
