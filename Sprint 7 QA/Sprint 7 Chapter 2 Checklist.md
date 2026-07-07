@@ -1,6 +1,6 @@
 ### 📦 Module 02: Structured Data
 
-- [ ] **Python's Structured Data Types** (Theory · 10 min)
+- [x] **Python's Structured Data Types** (Theory · 10 min)
     - [ ] Practice: Identify mutable vs immutable types
     - [ ] Review: Take notes on basic definitions
 - [ ] **Lists** (Theory · 1 hr 15 min)
