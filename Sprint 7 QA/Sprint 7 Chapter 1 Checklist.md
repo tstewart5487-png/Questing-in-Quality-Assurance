@@ -13,4 +13,4 @@
 - [x] Arithmetic Operators — Theory, 55 min
 - [x] Assignment Operators — Theory, 20 min
 - [x] Boolean Expressions — Theory, 25 min
-- [ ] Comparison Operators — Theory, 35 min
+- [x] Comparison Operators — Theory, 35 min
