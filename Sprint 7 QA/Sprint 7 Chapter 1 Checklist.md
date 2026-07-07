@@ -7,7 +7,7 @@
 - [x] Variables — Theory, 1 hr
 - [x] Changing the Value of Variables — Theory, 30 min
 - [x] Constants — Theory, 10 min
-- [ ] Data Types — Theory, 15 min
+- [x] Data Types — Theory, 15 min
 - [ ] Converting Data Types — Theory, 15 min
 - [ ] f-string — Theory, 45 min
 - [ ] Arithmetic Operators — Theory, 55 min
