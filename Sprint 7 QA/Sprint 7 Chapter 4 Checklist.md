@@ -12,7 +12,7 @@
     - [x] Pass external data into functions.
     - [x] Understand the difference between parameters and arguments.
     - [x] Use variables and values effectively.
-- [ ] **Returning Values** (Theory · 45 min)
+- [x] **Returning Values** (Theory · 45 min)
     - [ ] Master the `return` keyword.
     - [ ] Output results back to main programs.
     - [ ] Differentiate between return and print.
