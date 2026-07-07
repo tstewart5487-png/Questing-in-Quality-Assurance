@@ -8,7 +8,7 @@
     - [x] Review: Understand indexing and negative slicing
 - [x] **Tuples** (Theory · 35 min)
     - [x] Practice: Create single-item tuples and unpack values
-    - [ ] Review: Learn why tuples use less memory than lists
+    - [x] Review: Learn why tuples use less memory than lists
 - [ ] **Sets** (Theory · 30 min)
     - [ ] Practice: Use union(), intersection(), and difference()
     - [ ] Review: Note why duplicate items are automatically removed
