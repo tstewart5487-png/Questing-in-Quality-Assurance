@@ -9,7 +9,7 @@
 - [x] **Tuples** (Theory · 35 min)
     - [x] Practice: Create single-item tuples and unpack values
     - [x] Review: Learn why tuples use less memory than lists
-- [ ] **Sets** (Theory · 30 min)
+- [x] **Sets** (Theory · 30 min)
     - [ ] Practice: Use union(), intersection(), and difference()
     - [ ] Review: Note why duplicate items are automatically removed
 - [ ] **Dictionaries: Part 1** (Theory · 1 hr)
