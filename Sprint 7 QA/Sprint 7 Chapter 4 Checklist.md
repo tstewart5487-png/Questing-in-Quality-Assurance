@@ -7,7 +7,7 @@
 - [x] **Using Built-in Python Functions** (Theory · 30 min)
     - [x] Learn how to call functions.
     - [x] Use global standard functions.
-    - [ ] Practice `len()`, `max()`, and `min()`.
+    - [x] Practice `len()`, `max()`, and `min()`.
 - [ ] **Parameters and Arguments** (Theory · 55 min)
     - [ ] Pass external data into functions.
     - [ ] Understand the difference between parameters and arguments.
