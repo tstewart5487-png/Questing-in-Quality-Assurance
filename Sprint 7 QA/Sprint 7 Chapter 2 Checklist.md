@@ -16,5 +16,5 @@
     - [x] Practice: Build key-value pairs and use get() to avoid errors
     - [x] Review: Memorize how keys must be hashable/immutable
 - [x] **Dictionaries: Part 2** (Theory · 40 min)
-    - [ ] Practice: Iterate loops using .items(), .keys(), and .values()
+    - [x] Practice: Iterate loops using .items(), .keys(), and .values()
     - [ ] Review: Master nesting dictionaries inside lists
