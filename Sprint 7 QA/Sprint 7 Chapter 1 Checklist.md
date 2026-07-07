@@ -3,7 +3,7 @@
 *9 lessons left*
 
 - [x] Python for Automated Testing — Theory, 10 min
-- [ ] Hello, World! — Theory, 50 min
+- [x] Hello, World! — Theory, 50 min
 - [ ] Variables — Theory, 1 hr
 - [ ] Changing the Value of Variables — Theory, 30 min
 - [ ] Constants — Theory, 10 min
