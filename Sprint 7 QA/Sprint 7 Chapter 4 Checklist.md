@@ -3,7 +3,7 @@
 - [x] **Functions** (Theory · 5 min)
     - [x] Understand what functions are.
     - [x] Learn why they are used.
-    - [ ] Write clean, reusable code.
+    - [x] Write clean, reusable code.
 - [ ] **Using Built-in Python Functions** (Theory · 30 min)
     - [ ] Learn how to call functions.
     - [ ] Use global standard functions.
