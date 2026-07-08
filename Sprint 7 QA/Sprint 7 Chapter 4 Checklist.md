@@ -6,4 +6,4 @@
 - [x] Using Built-in Python Functions — Theory, 30 min
 - [x] Parameters and Arguments — Theory, 55 min
 - [x] Returning Values — Theory, 45 min
-- [ ] Testing Functions: The Assert Keyword — Theory, 20 min
+- [x] Testing Functions: The Assert Keyword — Theory, 20 min
