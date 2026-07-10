@@ -3,5 +3,5 @@
 - [x] Creating a Class
 - [x] Adding Methods to a Class
 - [x] Creating Object from Classes
-- [ ] Using Objects
+- [x] Using Objects
 - [ ] Interactions Between Objects
