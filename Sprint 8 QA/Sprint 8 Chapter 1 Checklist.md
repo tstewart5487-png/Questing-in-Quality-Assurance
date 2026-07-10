@@ -1,7 +1,7 @@
-- [ ] Automating Your Browser
-- [ ] Classes and Objects
-- [ ] Creating a Class
-- [ ] Adding Methods to a Class
-- [ ] Creating Object from Classes
-- [ ] Using Objects
-- [ ] Interactions Between Objects
+- [x] Automating Your Browser
+- [x] Classes and Objects
+- [x] Creating a Class
+- [x] Adding Methods to a Class
+- [x] Creating Object from Classes
+- [x] Using Objects
+- [x] Interactions Between Objects
