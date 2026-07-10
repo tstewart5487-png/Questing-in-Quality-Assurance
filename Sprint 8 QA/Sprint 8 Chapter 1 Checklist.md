@@ -1,5 +1,5 @@
 - [x] Automating Your Browser
-- [ ] Classes and Objects
+- [x] Classes and Objects
 - [ ] Creating a Class
 - [ ] Adding Methods to a Class
 - [ ] Creating Object from Classes
