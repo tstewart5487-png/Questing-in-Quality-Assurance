@@ -1,6 +1,6 @@
 - [x] Automating Your Browser
 - [x] Classes and Objects
-- [ ] Creating a Class
+- [x] Creating a Class
 - [ ] Adding Methods to a Class
 - [ ] Creating Object from Classes
 - [ ] Using Objects
