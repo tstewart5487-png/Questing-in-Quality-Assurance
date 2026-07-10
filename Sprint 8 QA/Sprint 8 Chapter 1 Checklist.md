@@ -4,4 +4,4 @@
 - [x] Adding Methods to a Class
 - [x] Creating Object from Classes
 - [x] Using Objects
-- [ ] Interactions Between Objects
+- [x] Interactions Between Objects
