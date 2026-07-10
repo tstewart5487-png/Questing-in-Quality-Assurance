@@ -2,6 +2,6 @@
 - [x] Classes and Objects
 - [x] Creating a Class
 - [x] Adding Methods to a Class
-- [ ] Creating Object from Classes
+- [x] Creating Object from Classes
 - [ ] Using Objects
 - [ ] Interactions Between Objects
