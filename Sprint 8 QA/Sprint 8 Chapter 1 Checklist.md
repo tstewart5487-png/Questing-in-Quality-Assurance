@@ -1,4 +1,4 @@
-- [ ] Automating Your Browser
+- [x] Automating Your Browser
 - [ ] Classes and Objects
 - [ ] Creating a Class
 - [ ] Adding Methods to a Class
