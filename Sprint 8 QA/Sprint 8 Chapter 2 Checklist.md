@@ -6,4 +6,4 @@
 - [x] **Inspecting the Elements of a Webpage** (Theory • 15 min)
 - [x] **Locating Elements: CSS Selectors** (Theory • 30 min)
 - [x] **Locating Elements: XPath** (Theory • 35 min)
-- [ ] **Locator Strategy** (Theory • 15 min)
+- [x] **Locator Strategy** (Theory • 15 min)
