@@ -9,5 +9,5 @@
 - [x] Finding Elements (Theory — 35 min)
 - [x] Clicking on Elements (Theory — 10 min)
 - [x] Waits (Theory — 20 min)
-- [ ] Testing Input Fields (Theory — 15 min)
+- [x] Testing Input Fields (Theory — 15 min)
 - [ ] Checking Text (Theory — 10 min)
