@@ -2,7 +2,7 @@
 
 **9 lessons — 2 hr 35 min**
 
-- [ ] Selenium (Theory — 5 min)
+- [x] Selenium (Theory — 5 min)
 - [ ] Selenium Overview (Theory — 15 min)
 - [ ] Installing Selenium (Theory — 20 min)
 - [ ] Opening and Closing Pages (Theory — 25 min)
