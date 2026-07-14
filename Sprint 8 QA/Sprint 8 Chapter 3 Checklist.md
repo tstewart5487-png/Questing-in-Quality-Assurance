@@ -10,4 +10,4 @@
 - [x] Clicking on Elements (Theory — 10 min)
 - [x] Waits (Theory — 20 min)
 - [x] Testing Input Fields (Theory — 15 min)
-- [ ] Checking Text (Theory — 10 min)
+- [x] Checking Text (Theory — 10 min)
